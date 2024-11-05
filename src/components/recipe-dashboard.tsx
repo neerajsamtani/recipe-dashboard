@@ -3,7 +3,7 @@ import { Card, CardHeader, CardTitle, CardContent, CardFooter } from '@/componen
 import { Input } from '@/components/ui/input';
 import { Badge } from '@/components/ui/badge';
 import { Separator } from '@/components/ui/separator';
-import { Search } from 'lucide-react';
+import { Search, X } from 'lucide-react';
 import recipes from '@/data/recipes.json';
 
 interface Ingredient {
@@ -36,20 +36,45 @@ interface RecipeWithMatch extends Recipe {
 }
 
 export const RecipeDashboard = () => {
-    const [availableIngredients, setAvailableIngredients] = useState('');
+    const [currentInput, setCurrentInput] = useState('');
+    const [ingredients, setIngredients] = useState<string[]>(['salt', 'pepper']);
+
+    const handleKeyDown = (e: React.KeyboardEvent<HTMLInputElement>) => {
+        if (e.key === 'Enter' && currentInput.trim()) {
+            e.preventDefault();
+            setIngredients([...ingredients, currentInput.trim().toLowerCase()]);
+            setCurrentInput('');
+        }
+    };
+
+    const removeIngredient = (ingredientToRemove: string) => {
+        setIngredients(ingredients.filter(ing => ing !== ingredientToRemove));
+    };
 
     const calculateScore = (matched: number, total: number): number => {
-        const missing = total - matched;
-        // Score = M / (T + e^X) where X is missing ingredients
-        return matched / (total + Math.exp(missing));
+        return matched / total;
+        // Alternative scoring function
+        // const missing = total - matched;
+        // return matched / (total + Math.exp(missing));
     };
 
     const getRecipeMatches = (): RecipeWithMatch[] => {
-        const ingredients = availableIngredients.toLowerCase().split(',').map(i => i.trim()).filter(i => i);
-
         return recipes.map(recipe => {
             const recipeIngredients = recipe.ingredients.map(i => i.name.toLowerCase());
-            const missingIngredients = recipeIngredients.filter(i => !ingredients.some(avail => i.includes(avail)));
+            const missingIngredients = recipeIngredients.filter(recipeIngredient => {
+                // Check if any user ingredient matches completely within recipe ingredient words
+                return !ingredients.some(userIngredient => {
+                    const userWords = userIngredient.toLowerCase().split(' ');
+
+                    // All user words must be found as complete words in the recipe
+                    return userWords.every(userWord => {
+                        // Add word boundary check using regex
+                        const wordRegex = new RegExp(`\\b${userWord}\\b`);
+                        return recipeIngredient.match(wordRegex);
+                    });
+                });
+            });
+
             const totalCount = recipeIngredients.length;
             const missingCount = missingIngredients.length;
             const matchedCount = totalCount - missingCount;
@@ -62,8 +87,7 @@ export const RecipeDashboard = () => {
                 score: calculateScore(matchedCount, totalCount),
                 missingIngredients
             };
-        }).sort((a, b) => b.score - a.score)
-            .filter(recipe => recipe.score > 0); // Sort by score descending
+        }).sort((a, b) => b.score - a.score);
     };
 
     const matchedRecipes = getRecipeMatches();
@@ -74,16 +98,33 @@ export const RecipeDashboard = () => {
                 <CardHeader>
                     <CardTitle>Recipe Match Finder</CardTitle>
                 </CardHeader>
-                <CardContent>
+                <CardContent className="space-y-4">
                     <div className="flex items-center space-x-2">
                         <Search className="w-5 h-5 text-muted-foreground" />
                         <Input
-                            placeholder="Enter ingredients you have (comma-separated)"
-                            value={availableIngredients}
-                            onChange={(e) => setAvailableIngredients(e.target.value)}
+                            placeholder="Type an ingredient and press Enter"
+                            value={currentInput}
+                            onChange={(e) => setCurrentInput(e.target.value)}
+                            onKeyDown={handleKeyDown}
                             className="flex-1"
                         />
                     </div>
+
+                    {ingredients.length > 0 && (
+                        <div className="flex flex-wrap gap-2">
+                            {ingredients.map((ingredient, index) => (
+                                <Badge
+                                    key={index}
+                                    variant="secondary"
+                                    className="px-3 py-1 cursor-pointer hover:bg-secondary/80 flex items-center gap-1"
+                                    onClick={() => removeIngredient(ingredient)}
+                                >
+                                    {ingredient}
+                                    <X className="w-3 h-3" />
+                                </Badge>
+                            ))}
+                        </div>
+                    )}
                 </CardContent>
             </Card>
 
