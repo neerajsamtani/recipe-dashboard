@@ -1,0 +1,4743 @@
+[
+    {
+        "name": "Chicken Fried Rice",
+        "servings": 5,
+        "calories": 500.0,
+        "fat": {
+            "amount": 176.0,
+            "unit": "g"
+        },
+        "carbs": {
+            "amount": 476.0,
+            "unit": "g"
+        },
+        "protein": {
+            "amount": 416.0,
+            "unit": "g"
+        },
+        "ingredients": [
+            {
+                "name": "Chicken breast",
+                "quantity": 25.0,
+                "unit": "oz"
+            },
+            {
+                "name": "Garlic powder",
+                "quantity": 1.0,
+                "unit": "Tbsp"
+            },
+            {
+                "name": "Soy sauce",
+                "quantity": 2.0,
+                "unit": "Tbsp"
+            },
+            {
+                "name": "Avocado oil",
+                "quantity": 1.0,
+                "unit": "Tbsp"
+            },
+            {
+                "name": "Sriracha",
+                "quantity": 1.0,
+                "unit": "Tbsp"
+            },
+            {
+                "name": "Cooked rice",
+                "quantity": 700.0,
+                "unit": "g"
+            },
+            {
+                "name": "Mixed frozen veggies",
+                "quantity": 300.0,
+                "unit": "g"
+            },
+            {
+                "name": "Egg whites",
+                "quantity": 200.0,
+                "unit": "g"
+            },
+            {
+                "name": "Eggs",
+                "quantity": 3.0,
+                "unit": "count"
+            },
+            {
+                "name": "Soy sauce",
+                "quantity": 3.0,
+                "unit": "Tbsp"
+            },
+            {
+                "name": "Sesame oil",
+                "quantity": 3.0,
+                "unit": "Tbsp"
+            }
+        ],
+        "instructions": [
+            "Slice the chicken breast thin and dice the chicken into cubes, and then marinate in a bowl with garlic powder, soy sauce, avocado oil, and sriracha.",
+            "Whisk together egg whites and 3 eggs in a bowl until they are fully combined.",
+            "Cook the chicken in a pan on high heat in two or three batches for about 2-3 minutes until fully cooked through.",
+            "Once chicken is cooked through, remove the chicken and place mixed veggies in the pan until fully softened and lightly charred. When the veggies are done, push them to the side of the pan and pour in the egg mixture.",
+            "Cook the eggs until they are scrambled, then mix all of the ingredients together, pour over the rice, top off with soy sauce and sesame oil, and mix. Mix in cooked chicken, and enjoy!"
+        ]
+    },
+    {
+        "name": "Garlic Parmesan Chicken Alfredo",
+        "servings": 5,
+        "calories": 505.0,
+        "fat": {
+            "amount": 156.0,
+            "unit": "g"
+        },
+        "carbs": {
+            "amount": 526.0,
+            "unit": "g"
+        },
+        "protein": {
+            "amount": 44.0,
+            "unit": "g"
+        },
+        "ingredients": [
+            {
+                "name": "skinless chicken thighs",
+                "quantity": 16.0,
+                "unit": "oz"
+            },
+            {
+                "name": "olive oil",
+                "quantity": 10.0,
+                "unit": "g"
+            },
+            {
+                "name": "white wine vinegar",
+                "quantity": 2.0,
+                "unit": "Tbsp"
+            },
+            {
+                "name": "garlic powder",
+                "quantity": 1.0,
+                "unit": "tsp"
+            },
+            {
+                "name": "dried oregano",
+                "quantity": 0.5,
+                "unit": "tsp"
+            },
+            {
+                "name": "onion powder",
+                "quantity": 0.25,
+                "unit": "tsp"
+            },
+            {
+                "name": "chili flakes",
+                "quantity": 0.25,
+                "unit": "tsp"
+            },
+            {
+                "name": "salt",
+                "quantity": 0.25,
+                "unit": "tsp"
+            },
+            {
+                "name": "pepper",
+                "quantity": 0.25,
+                "unit": "tsp"
+            },
+            {
+                "name": "Honey",
+                "quantity": 10.0,
+                "unit": "g"
+            },
+            {
+                "name": "Parmigiano Reggiano",
+                "quantity": 20.0,
+                "unit": "g"
+            },
+            {
+                "name": "cottage cheese",
+                "quantity": 350.0,
+                "unit": "g"
+            },
+            {
+                "name": "milk",
+                "quantity": 80.0,
+                "unit": "g"
+            },
+            {
+                "name": "fresh Parmigiano Reggiano",
+                "quantity": 85.0,
+                "unit": "g"
+            },
+            {
+                "name": "linguine (dry weight)",
+                "quantity": 320.0,
+                "unit": "g"
+            }
+        ],
+        "instructions": [
+            "In a bowl, mix together the ingredients for the Garlic Parm chicken marinade. Add the chicken to the marinade. Let marinade up to overnight - if you're in a time crunch, at least 30 mins.",
+            "In a blender, combine low-fat cottage cheese, milk, freshly grated Parmigiano Reggiano cheese, salt, pepper, and garlic. Blend for 1-2 minutes until the sauce is completely smooth.",
+            "Place the marinated chicken in an air fryer at 375 for 12-15 minutes or until the chicken is cooked through.",
+            "Once the chicken is cooked, remove it from the air fryer and slice it into strips to prepare it for serving with the pasta.",
+            "Cook the pasta according to the package instructions. Drain the pasta, reserving some pasta water. Toss the cooked pasta with the prepared cheese sauce, adding pasta water as needed to thin out the sauce. Finally, top the pasta with the sliced Garlic Parmesan chicken and enjoy!"
+        ]
+    },
+    {
+        "name": "Philly Cheesesteak Pasta",
+        "servings": 6,
+        "calories": 510.0,
+        "fat": {
+            "amount": 136.0,
+            "unit": "g"
+        },
+        "carbs": {
+            "amount": 586.0,
+            "unit": "g"
+        },
+        "protein": {
+            "amount": 426.0,
+            "unit": "g"
+        },
+        "ingredients": [
+            {
+                "name": "Skirt steak",
+                "quantity": 16.0,
+                "unit": "oz"
+            },
+            {
+                "name": "Pasta",
+                "quantity": 448.0,
+                "unit": "g"
+            },
+            {
+                "name": "Red bell peppers",
+                "quantity": 3.0,
+                "unit": "count"
+            },
+            {
+                "name": "Poblano peppers",
+                "quantity": 3.0,
+                "unit": "count"
+            },
+            {
+                "name": "Jalape\u00f1os",
+                "quantity": 4.0,
+                "unit": "count"
+            },
+            {
+                "name": "Onion",
+                "quantity": 1.0,
+                "unit": "count"
+            },
+            {
+                "name": "Cottage cheese",
+                "quantity": 500.0,
+                "unit": "g"
+            },
+            {
+                "name": "Milk",
+                "quantity": 150.0,
+                "unit": "ml"
+            },
+            {
+                "name": "Low-fat mozzarella",
+                "quantity": 40.0,
+                "unit": "g"
+            },
+            {
+                "name": "Parmigiano Reggiano",
+                "quantity": 45.0,
+                "unit": "g"
+            }
+        ],
+        "instructions": [
+            "Preheat oven to 400\u00b0F (200\u00b0C). Dice 3 red bell peppers, 3 poblano peppers, 4 jalape\u00f1os, 1 large onion. Spread on a baking sheet, season with salt, pepper, garlic powder. Roast 20-25 min until soft and slightly charred. Set aside.",
+            "Trim 16oz skirt steak, dice into small pieces, tenderize if desired. Season with salt, pepper, garlic powder. ",
+            "In a blender, combine 2% cottage cheese, 1% milk, low-fat mozzarella, Parmigiano Reggiano, salt, garlic powder. Blend until smooth.",
+            "Heat skillet on high. Cook steak until seared on each side, add roasted veggies, stir, remove from heat. ",
+            "Cook pasta until al dente, drain. Pour sauce over steak and veggies, stir until coated. Add pasta, mix until combined.",
+            "Divide into 6 servings. Serve immediately or store for freezing."
+        ]
+    },
+    {
+        "name": "Spicy Peanut Sauce Noodles",
+        "servings": 5,
+        "calories": 510.0,
+        "fat": {
+            "amount": 136.0,
+            "unit": "g"
+        },
+        "carbs": {
+            "amount": 606.0,
+            "unit": "g"
+        },
+        "protein": {
+            "amount": 42.0,
+            "unit": "g"
+        },
+        "ingredients": [
+            {
+                "name": "Chicken Breast",
+                "quantity": 200.0,
+                "unit": "g"
+            },
+            {
+                "name": "Soy Sauce",
+                "quantity": 35.0,
+                "unit": "g"
+            },
+            {
+                "name": "Sriracha",
+                "quantity": 25.0,
+                "unit": "g"
+            },
+            {
+                "name": "Lime Juice",
+                "quantity": 10.0,
+                "unit": "g"
+            },
+            {
+                "name": "Garlic Powder",
+                "quantity": 0.25,
+                "unit": "tsp"
+            },
+            {
+                "name": "Onion Powder",
+                "quantity": 0.25,
+                "unit": "tsp"
+            },
+            {
+                "name": "Red Chili Flakes",
+                "quantity": 0.25,
+                "unit": "tsp"
+            },
+            {
+                "name": "Minced Garlic",
+                "quantity": 10.0,
+                "unit": "cloves"
+            },
+            {
+                "name": "Green Onions",
+                "quantity": 5.0,
+                "unit": ""
+            },
+            {
+                "name": "Creamy Peanut Butter",
+                "quantity": 100.0,
+                "unit": "g"
+            },
+            {
+                "name": "Soy Sauce",
+                "quantity": 40.0,
+                "unit": "g"
+            },
+            {
+                "name": "Sriracha",
+                "quantity": 20.0,
+                "unit": "g"
+            },
+            {
+                "name": "Honey",
+                "quantity": 75.0,
+                "unit": "g"
+            },
+            {
+                "name": "Chopped Sun-Dried Tomatoes",
+                "quantity": 40.0,
+                "unit": "g"
+            },
+            {
+                "name": "Lime Juice",
+                "quantity": 2.0,
+                "unit": "Tbsp"
+            },
+            {
+                "name": "Noodles of Choice",
+                "quantity": 300.0,
+                "unit": "g"
+            }
+        ],
+        "instructions": [
+            "Begin by dicing chicken breast into cubes. Marinate in soy sauce, sriracha, lime juice, and 1/4 tsp of each seasoning (add more chili flakes if you prefer spicier).",
+            "While the chicken is marinating, make the peanut sauce by combining peanut butter, soy sauce, sriracha, honey, finely chopped sun-dried tomatoes and lime juice in a small bowl, and whisk.",
+            "Cook noodles or pasta according to package instructions.",
+            "While noodles are cooking, begin cooking the chicken on a pan over medium-high heat for 4-5 minutes. Add minced garlic and the whites of green onions, cooking for another 2-3 minutes. Remove from pan and set to the side.",
+            "Reduce the heat to low and add the peanut sauce to the same pan, along with a third of a cup of water. Add the pasta and simmer for a few minutes.",
+            "Add the cooked chicken to the pasta mixture and mix. Garnish with 'greens' of the green onions."
+        ]
+    },
+    {
+        "name": "Queso Chicken & Rice",
+        "servings": 5,
+        "calories": 515.0,
+        "fat": {
+            "amount": 13.0,
+            "unit": "g"
+        },
+        "carbs": {
+            "amount": 51.0,
+            "unit": "g"
+        },
+        "protein": {
+            "amount": 48.0,
+            "unit": "g"
+        },
+        "ingredients": [
+            {
+                "name": "Chicken Breast",
+                "quantity": 24.0,
+                "unit": "oz"
+            },
+            {
+                "name": "Avocado Oil",
+                "quantity": 1.5,
+                "unit": "tsp"
+            },
+            {
+                "name": "Taco Seasoning",
+                "quantity": 1.5,
+                "unit": "packets"
+            },
+            {
+                "name": "Basmati Rice",
+                "quantity": 300.0,
+                "unit": "g"
+            },
+            {
+                "name": "Water",
+                "quantity": 450.0,
+                "unit": "ml"
+            },
+            {
+                "name": "Plain Greek Yogurt",
+                "quantity": 250.0,
+                "unit": "g"
+            },
+            {
+                "name": "Red Enchilada Sauce",
+                "quantity": 85.0,
+                "unit": "g"
+            },
+            {
+                "name": "Pico de Gallo",
+                "quantity": 85.0,
+                "unit": "g"
+            },
+            {
+                "name": "Cheddar Cheese",
+                "quantity": 85.0,
+                "unit": "g"
+            },
+            {
+                "name": "Fat Cream Cheese",
+                "quantity": 100.0,
+                "unit": "g"
+            },
+            {
+                "name": "Diced Green Chiles",
+                "quantity": 65.0,
+                "unit": "g"
+            },
+            {
+                "name": "Nutritional Yeast",
+                "quantity": 20.0,
+                "unit": "g"
+            },
+            {
+                "name": "Brown Sugar",
+                "quantity": 10.0,
+                "unit": "g"
+            },
+            {
+                "name": "Garlic Powder",
+                "quantity": 0.5,
+                "unit": "tsp"
+            },
+            {
+                "name": "Onion Powder",
+                "quantity": 0.5,
+                "unit": "tsp"
+            },
+            {
+                "name": "Salt",
+                "quantity": 1.0,
+                "unit": "pinches"
+            },
+            {
+                "name": "Chopped Cilantro",
+                "quantity": 1.0,
+                "unit": "handful"
+            }
+        ],
+        "instructions": [
+            "Rinse rice in a mesh strainer under cold water for 2 minutes, then combine with 450g of water and bring to a boil. Once boiling, reduce heat to low, cover, and let cook for 15 minutes. Remove from heat, keep covered, and let sit another 10 minutes to cook rice.",
+            "Tenderize chicken breasts (flatten out to an even thickness), rub with avocado oil, then cover with taco seasoning. It should be entirely covered. Place to the side and dry brine for 45-60 mins.",
+            "Cook chicken in the air fryer at 375 for 12 minutes, let rest 5, then slice or dice.",
+            "With heat on the lowest setting, add Greek yogurt, red enchilada sauce, pico, cheddar cheese, cream cheese, green chiles, nutritional yeast, brown sugar, garlic powder, onion powder and salt to a pan. Mix until everything is melted and combined (if it's still too thick, add a splash of milk until your desired consistency). Mix in a handful of chopped cilantro.",
+            "Place chicken on top of rice and pour over your Queso sauce and garnish with more cilantro."
+        ]
+    },
+    {
+        "name": "Cajun Chicken Mac n Cheese",
+        "servings": 5,
+        "calories": 505.0,
+        "fat": {
+            "amount": 136.0,
+            "unit": "g"
+        },
+        "carbs": {
+            "amount": 546.0,
+            "unit": "g"
+        },
+        "protein": {
+            "amount": 456.0,
+            "unit": "g"
+        },
+        "ingredients": [
+            {
+                "name": "Chicken/Marinade",
+                "quantity": 18.0,
+                "unit": "oz"
+            },
+            {
+                "name": "Juice of 1 lemon",
+                "quantity": 1.0,
+                "unit": "lemon"
+            },
+            {
+                "name": "Olive oil",
+                "quantity": 1.0,
+                "unit": "Tbsp"
+            },
+            {
+                "name": "Cajun seasoning",
+                "quantity": 1.0,
+                "unit": "Tbsp"
+            },
+            {
+                "name": "Coarse salt",
+                "quantity": 1.0,
+                "unit": "tsp"
+            },
+            {
+                "name": "Pepper",
+                "quantity": 1.0,
+                "unit": "tsp"
+            },
+            {
+                "name": "Garlic powder",
+                "quantity": 1.0,
+                "unit": "tsp"
+            },
+            {
+                "name": "Pasta",
+                "quantity": 325.0,
+                "unit": "g"
+            },
+            {
+                "name": "Cottage cheese",
+                "quantity": 300.0,
+                "unit": "g"
+            },
+            {
+                "name": "Mozzarella cheese",
+                "quantity": 60.0,
+                "unit": "g"
+            },
+            {
+                "name": "Cheddar cheese",
+                "quantity": 60.0,
+                "unit": "g"
+            },
+            {
+                "name": "Cheddar powder",
+                "quantity": 25.0,
+                "unit": "g"
+            },
+            {
+                "name": "Nutritional yeast",
+                "quantity": 3.0,
+                "unit": "g"
+            },
+            {
+                "name": "Milk",
+                "quantity": 100.0,
+                "unit": "g"
+            },
+            {
+                "name": "Louisiana hot sauce",
+                "quantity": 1.0,
+                "unit": "Tbsp"
+            }
+        ],
+        "instructions": [
+            "Marinate your chicken breast with lemon juice, olive oil, cajun seasoning, salt, pepper and garlic powder. Marinate for at least 30 minutes.",
+            "Cook chicken in a pan over medium high heat - flip every 1-2 mins until cooked through.",
+            "Place all cheese sauce ingredients in a blender and blend until completely smooth. Once chicken is done cooking, remove from pan, turn off the heat, and pour over your sauce (make sure the pan isn't too hot) to collect all the flavor left behind by the chicken.",
+            "Cook pasta according to the instructions on the box.",
+            "Mix your sauce with the pasta until completely coated.",
+            "Top with your sliced cajun chicken and garnish with chives & hot sauce."
+        ]
+    },
+    {
+        "name": "Chicken Bacon Ranch Fried Rice",
+        "servings": 5,
+        "calories": 500.0,
+        "fat": {
+            "amount": 17.0,
+            "unit": "g"
+        },
+        "carbs": {
+            "amount": 496.0,
+            "unit": "g"
+        },
+        "protein": {
+            "amount": 426.0,
+            "unit": "g"
+        },
+        "ingredients": [
+            {
+                "name": "Boneless skinless chicken thighs",
+                "quantity": 28.0,
+                "unit": "oz"
+            },
+            {
+                "name": "Center cut bacon",
+                "quantity": 12.0,
+                "unit": "slices"
+            },
+            {
+                "name": "Ranch seasoning packet",
+                "quantity": 1.0,
+                "unit": "packet"
+            },
+            {
+                "name": "Smoked paprika",
+                "quantity": 1.0,
+                "unit": "tsp"
+            },
+            {
+                "name": "Salt",
+                "quantity": 0.0,
+                "unit": "to taste"
+            },
+            {
+                "name": "Pepper",
+                "quantity": 0.0,
+                "unit": "to taste"
+            },
+            {
+                "name": "Fresh chives",
+                "quantity": 1.0,
+                "unit": "Tbsp"
+            },
+            {
+                "name": "Fresh cilantro",
+                "quantity": 1.0,
+                "unit": "Tbsp"
+            },
+            {
+                "name": "Juice of half a lime",
+                "quantity": 1.0,
+                "unit": "juice"
+            },
+            {
+                "name": "Roasted jalape\u00f1os",
+                "quantity": 4.0,
+                "unit": "pieces"
+            },
+            {
+                "name": "Day-old cooked rice",
+                "quantity": 300.0,
+                "unit": "g"
+            },
+            {
+                "name": "Green onions",
+                "quantity": 1.0,
+                "unit": "bunch"
+            },
+            {
+                "name": "Greek yogurt",
+                "quantity": 228.0,
+                "unit": "g"
+            },
+            {
+                "name": "Low-fat mayo",
+                "quantity": 80.0,
+                "unit": "g"
+            },
+            {
+                "name": "Low-fat buttermilk",
+                "quantity": 240.0,
+                "unit": "g"
+            },
+            {
+                "name": "Garlic powder",
+                "quantity": 3.75,
+                "unit": "tsp"
+            },
+            {
+                "name": "Onion powder",
+                "quantity": 3.75,
+                "unit": "tsp"
+            }
+        ],
+        "instructions": [
+            "Preheat air fryer to 390\u00b0F (200\u00b0C). Season 28oz chicken thighs with Ranch seasoning, 1 tsp smoked paprika, and salt. Air fry 15-20 min until cooked and crispy. Let rest, then slice.",
+            "Dice 12 slices center-cut bacon. Cook in skillet over medium-high until crispy. Remove most grease, leaving some. Add whites of green onions, saut\u00e9 2-3 min.",
+            "Add day-old cooked rice to skillet, stir-fry with bacon and onions until heated and slightly crispy.",
+            "In a blender, combine Greek yogurt, low-fat mayo, low-fat buttermilk, garlic powder, onion powder, fresh chives, cilantro, salt & pepper, juice of 1/2 lime and roasted jalape\u00f1os. Blend until smooth. Use 250g sauce, store rest in fridge.",
+            "Place sliced chicken on rice, drizzle with Jalape\u00f1o Ranch. Divide into 5 servings, garnish with greens of green onions."
+        ]
+    },
+    {
+        "name": "Orzo Burrito Bowls",
+        "servings": 6,
+        "calories": 520.0,
+        "fat": {
+            "amount": 12.0,
+            "unit": "g"
+        },
+        "carbs": {
+            "amount": 16.0,
+            "unit": "g"
+        },
+        "protein": {
+            "amount": 41.0,
+            "unit": "g"
+        },
+        "ingredients": [
+            {
+                "name": "Boneless skinless chicken thighs",
+                "quantity": 24.0,
+                "unit": "oz"
+            },
+            {
+                "name": "Orzo",
+                "quantity": 380.0,
+                "unit": "g"
+            },
+            {
+                "name": "Greek yogurt",
+                "quantity": 250.0,
+                "unit": "g"
+            },
+            {
+                "name": "Guacamole",
+                "quantity": 120.0,
+                "unit": "g"
+            },
+            {
+                "name": "Cilantro",
+                "quantity": 1.0,
+                "unit": "bunch"
+            },
+            {
+                "name": "Lime",
+                "quantity": 1.0,
+                "unit": "piece"
+            },
+            {
+                "name": "Chipotle hot sauce",
+                "quantity": 1.0,
+                "unit": "to taste"
+            }
+        ],
+        "instructions": [
+            "Preheat your air fryer to 375\u00b0F.",
+            "Season boneless, skinless chicken thighs with each seasoning listed (even amounts of each seasoning). Air fry the chicken thighs for 12-15 minutes.",
+            "While the chicken cooks, cook your orzo according to packaging instructions.",
+            "Once the chicken is cooked, let rest for 5 minutes, then dice into small pieces.",
+            "In a large pan or bowl, mix together the cooked chicken, orzo, guacamole, Greek yogurt, hot sauce, and the juice of one lime. Garnish with cilantro, and enjoy."
+        ]
+    },
+    {
+        "name": "Lemon Parmesan Chicken & Rice",
+        "servings": 5,
+        "calories": 495.0,
+        "fat": {
+            "amount": 156.0,
+            "unit": "g"
+        },
+        "carbs": {
+            "amount": 526.0,
+            "unit": "g"
+        },
+        "protein": {
+            "amount": 40.0,
+            "unit": "g"
+        },
+        "ingredients": [
+            {
+                "name": "chicken breast",
+                "quantity": 24.0,
+                "unit": "oz"
+            },
+            {
+                "name": "juice of 1 lemon",
+                "quantity": 1.0,
+                "unit": "unit"
+            },
+            {
+                "name": "olive oil",
+                "quantity": 1.0,
+                "unit": "Tbsp"
+            },
+            {
+                "name": "salt",
+                "quantity": 1.0,
+                "unit": "Tbsp"
+            },
+            {
+                "name": "pepper",
+                "quantity": 0.5,
+                "unit": "Tbsp"
+            },
+            {
+                "name": "garlic powder",
+                "quantity": 1.0,
+                "unit": "tsp"
+            },
+            {
+                "name": "basmati rice",
+                "quantity": 320.0,
+                "unit": "g"
+            },
+            {
+                "name": "butter",
+                "quantity": 30.0,
+                "unit": "g"
+            },
+            {
+                "name": "water",
+                "quantity": 480.0,
+                "unit": "ml"
+            },
+            {
+                "name": "fat-free evaporated milk",
+                "quantity": 180.0,
+                "unit": "g"
+            },
+            {
+                "name": "Parmigiano Reggiano",
+                "quantity": 80.0,
+                "unit": "g"
+            },
+            {
+                "name": "juice of 1/2 lemon",
+                "quantity": 1.0,
+                "unit": "unit"
+            }
+        ],
+        "instructions": [
+            "Mix together lemon juice, olive oil, salt, pepper and garlic powder to make your lemon pepper marinade. Add in your chicken breast (flatten/tenderize first) and let marinate for 30 minutes.",
+            "Rinse rice in a mesh strainer under cold water for 2 minutes, then combine with 480g of water and 30g of butter and bring to a boil. Once boiling, reduce heat to low, cover, and let cook for 15 minutes. Remove from heat, keep covered, and let sit another 10 minutes to cook rice.",
+            "Cook chicken in a pan over medium high heat - flip every 1-2 mins until cooked through.",
+            "Place all sauce ingredients in a blender and blend until completely smooth. Once chicken is done cooking, remove from pan, turn heat to lowest setting, and juice half a lemon to deglaze. Pour over your sauce (make sure the pan isn't too hot) and simmer for a few minutes until slightly thickened. Make sure to use FRESH parmigiano reggiano, pre-grated may not emulsify well.",
+            "Separate your rice into 5 equal servings, top with sliced chicken and pour over your sauce."
+        ]
+    },
+    {
+        "name": "Orange Chicken",
+        "servings": 5,
+        "calories": 510.0,
+        "fat": {
+            "amount": 136.0,
+            "unit": "g"
+        },
+        "carbs": {
+            "amount": 586.0,
+            "unit": "g"
+        },
+        "protein": {
+            "amount": 40.0,
+            "unit": "g"
+        },
+        "ingredients": [
+            {
+                "name": "Boneless skinless chicken thighs",
+                "quantity": 32.0,
+                "unit": "oz"
+            },
+            {
+                "name": "Corn starch",
+                "quantity": 5.0,
+                "unit": "Tbsp"
+            },
+            {
+                "name": "Onion powder",
+                "quantity": 0.5,
+                "unit": "tsp"
+            },
+            {
+                "name": "Garlic powder",
+                "quantity": 0.5,
+                "unit": "tsp"
+            },
+            {
+                "name": "Ginger powder",
+                "quantity": 0.5,
+                "unit": "tsp"
+            },
+            {
+                "name": "Salt",
+                "quantity": 0.5,
+                "unit": "tsp"
+            },
+            {
+                "name": "Black pepper",
+                "quantity": 1.0,
+                "unit": "tsp"
+            },
+            {
+                "name": "Basmati rice",
+                "quantity": 280.0,
+                "unit": "g"
+            },
+            {
+                "name": "Water",
+                "quantity": 420.0,
+                "unit": "g"
+            }
+        ],
+        "instructions": [
+            "Mix together corn starch, onion powder, garlic powder, ginger powder, salt, and black pepper and combine to create the coating for the chicken.",
+            "Dice the chicken thighs into small 1 inch cubes and mix until all pieces are fully coated.",
+            "Lightly spray with oil and air fry the coated chicken at 400 for 15 minutes until fully cooked.",
+            "Rinse rice in a mesh strainer under cold water for 2 minutes, then combine with 420g of water and bring to a boil. Once boiling, reduce heat to low, cover, and let cook for 15 minutes. Remove from heat, keep covered, and let sit another 10 minutes to cook rice.",
+            "Place all sauce ingredients in a pan over medium heat until it begins to bubble, simmer until it is slightly thickened, but still is fluid enough to move around the pan.",
+            "Mix the chicken into the pan, toss to coat, and serve over steamed rice or on its own and enjoy!"
+        ]
+    },
+    {
+        "name": "Chipotle Chicken & Bacon Alfredo",
+        "servings": 4,
+        "calories": 535.0,
+        "fat": {
+            "amount": 12.0,
+            "unit": "g"
+        },
+        "carbs": {
+            "amount": 626.0,
+            "unit": "g"
+        },
+        "protein": {
+            "amount": 516.0,
+            "unit": "g"
+        },
+        "ingredients": [
+            {
+                "name": "Skinless chicken thighs",
+                "quantity": 12.0,
+                "unit": "oz"
+            },
+            {
+                "name": "Salt (for seasoning)",
+                "quantity": 0.0,
+                "unit": ""
+            },
+            {
+                "name": "Garlic (for seasoning)",
+                "quantity": 0.0,
+                "unit": ""
+            },
+            {
+                "name": "Onion (for seasoning)",
+                "quantity": 0.0,
+                "unit": ""
+            },
+            {
+                "name": "Paprika (for seasoning)",
+                "quantity": 0.0,
+                "unit": ""
+            },
+            {
+                "name": "Chili powder (for seasoning)",
+                "quantity": 0.0,
+                "unit": ""
+            },
+            {
+                "name": "Center cut bacon",
+                "quantity": 4.0,
+                "unit": "slices"
+            },
+            {
+                "name": "Protein penne",
+                "quantity": 320.0,
+                "unit": "g"
+            },
+            {
+                "name": "Evaporated fat-free milk",
+                "quantity": 168.0,
+                "unit": "g"
+            },
+            {
+                "name": "2% cottage cheese",
+                "quantity": 300.0,
+                "unit": "g"
+            },
+            {
+                "name": "Parmigiano Reggiano",
+                "quantity": 50.0,
+                "unit": "g"
+            },
+            {
+                "name": "Chipotle peppers",
+                "quantity": 1.0,
+                "unit": "to 2"
+            },
+            {
+                "name": "Adobo sauce",
+                "quantity": 1.0,
+                "unit": "Tbsp"
+            },
+            {
+                "name": "Salt",
+                "quantity": 0.0,
+                "unit": ""
+            },
+            {
+                "name": "Pepper",
+                "quantity": 0.0,
+                "unit": ""
+            },
+            {
+                "name": "Chives (for garnish)",
+                "quantity": 0.0,
+                "unit": ""
+            },
+            {
+                "name": "Red chili flakes (for garnish)",
+                "quantity": 0.0,
+                "unit": ""
+            }
+        ],
+        "instructions": [
+            "Season your chicken with even amounts of salt, garlic, onion, paprika, and chili powder. If you prefer to measure, mix each seasoning in a small bowl in bulk, then use enough to completely cover each side of the chicken. Air fry the seasoned chicken at 375\u00b0F for 12-15 minutes, or until cooked through. Once cooked, dice the chicken into small pieces.",
+            "Cook the pasta according to the instructions on the box.",
+            "Blend all of the Alfredo sauce ingredients: evaporated fat-free milk, cottage cheese, Parmigiano Reggiano, chipotle peppers, adobo sauce, salt, and pepper. Blend until completely smooth.",
+            "Dice the bacon into small pieces and cook it in a pan until golden brown and crispy. Remove the bacon from the pan and drain grease. Turn off the heat and add the diced chicken back to the pan.",
+            "Pour the blended Alfredo sauce over the chicken in the pan. Add the cooked pasta to the pan as well, and mix until everything is combined and evenly coated with the sauce.",
+            "Top the dish with chives, red chili flakes, and the cooked bacon. Serve and enjoy!"
+        ]
+    },
+    {
+        "name": "Loaded Cheddar Fries",
+        "servings": 6,
+        "calories": 500.0,
+        "fat": {
+            "amount": 19.0,
+            "unit": "g"
+        },
+        "carbs": {
+            "amount": 426.0,
+            "unit": "g"
+        },
+        "protein": {
+            "amount": 416.0,
+            "unit": "g"
+        },
+        "ingredients": [
+            {
+                "name": "93% beef",
+                "quantity": 26.0,
+                "unit": "oz"
+            },
+            {
+                "name": "taco seasoning",
+                "quantity": 2.0,
+                "unit": "packets"
+            },
+            {
+                "name": "water",
+                "quantity": 1.0,
+                "unit": "cup"
+            },
+            {
+                "name": "bag of frozen fries",
+                "quantity": 1.0,
+                "unit": ""
+            },
+            {
+                "name": "salt",
+                "quantity": 1.0,
+                "unit": "to taste"
+            },
+            {
+                "name": "garlic",
+                "quantity": 1.0,
+                "unit": "to taste"
+            },
+            {
+                "name": "onion",
+                "quantity": 1.0,
+                "unit": "to taste"
+            },
+            {
+                "name": "paprika",
+                "quantity": 1.0,
+                "unit": "to taste"
+            },
+            {
+                "name": "cumin",
+                "quantity": 1.0,
+                "unit": "to taste"
+            },
+            {
+                "name": "fat-free cheddar",
+                "quantity": 80.0,
+                "unit": "g"
+            },
+            {
+                "name": "2% or low-fat cheddar",
+                "quantity": 150.0,
+                "unit": "g"
+            },
+            {
+                "name": "diced onions",
+                "quantity": 2.0,
+                "unit": ""
+            }
+        ],
+        "instructions": [
+            "Add your frozen fries to a baking sheet, season, and bake according to packaging instructions.",
+            "Place diced onions in a pan over medium-low heat and cook until caramelized. Since we aren't adding oil, make sure to use non-stick, and add a splash of water if the onions begin sticking. It takes at least ~30 minutes to fully caramelize onions, but you can cook to your desired level.",
+            "Remove onions from the pan, and add in your beef. Cook over medium-high heat, then season with taco seasoning and add 1/3 cup of water. Simmer until thickened and cooked through.",
+            "Once fries are done, remove the sheet pan from the oven. In this order, top your fries with fat-free cheddar, onions, your beef mixture, then low-fat cheddar for the top layer. Season the top layer of cheddar with garlic and cumin.",
+            "Broil on high for 2-4 minutes or until cheese is fully melted. Separate into 6 servings, and enjoy!"
+        ]
+    },
+    {
+        "name": "Chicken Burrito Bowls",
+        "servings": 5,
+        "calories": 505.0,
+        "fat": {
+            "amount": 16.0,
+            "unit": "g"
+        },
+        "carbs": {
+            "amount": 44.0,
+            "unit": "g"
+        },
+        "protein": {
+            "amount": 46.0,
+            "unit": "g"
+        },
+        "ingredients": [
+            {
+                "name": "Boneless skinless chicken thighs",
+                "quantity": 24.0,
+                "unit": "oz"
+            },
+            {
+                "name": "Roma tomatoes",
+                "quantity": 5.0,
+                "unit": "pieces"
+            },
+            {
+                "name": "Small white onion",
+                "quantity": 1.0,
+                "unit": "piece"
+            },
+            {
+                "name": "Lime juice",
+                "quantity": 2.0,
+                "unit": "pieces"
+            },
+            {
+                "name": "Fresh chopped cilantro",
+                "quantity": 0.5,
+                "unit": "cup"
+            },
+            {
+                "name": "Jalape\u00f1o peppers",
+                "quantity": 2.0,
+                "unit": "pieces"
+            },
+            {
+                "name": "Avocado",
+                "quantity": 200.0,
+                "unit": "g"
+            },
+            {
+                "name": "Green enchilada sauce",
+                "quantity": 50.0,
+                "unit": "g"
+            },
+            {
+                "name": "Spanish RightRice",
+                "quantity": 300.0,
+                "unit": "g"
+            },
+            {
+                "name": "Greek yogurt",
+                "quantity": 200.0,
+                "unit": "g"
+            }
+        ],
+        "instructions": [
+            "Season boneless, skinless chicken thighs with salt, garlic, onion, smoked paprika, and chili powder. Air fry at 375\u00b0F for 12-15 minutes.",
+            "Cook Spanish RightRice according to package instructions. For Pico de Gallo, combine diced Roma tomatoes, onion, salt, pepper, garlic powder, lime juice, cilantro, and diced jalape\u00f1os.",
+            "Mash the avocado with salt, pepper, and green enchilada sauce to a guacamole-like consistency.",
+            "After cooking, let the chicken rest for 5 minutes, then dice. Divide ingredients into meal prep containers, topping with Greek yogurt and hot sauce."
+        ]
+    },
+    {
+        "name": "Taco Mac N Cheese",
+        "servings": 5,
+        "calories": 510.0,
+        "fat": {
+            "amount": 12.0,
+            "unit": "g"
+        },
+        "carbs": {
+            "amount": 626.0,
+            "unit": "g"
+        },
+        "protein": {
+            "amount": 41.0,
+            "unit": "g"
+        },
+        "ingredients": [
+            {
+                "name": "yellow bell peppers",
+                "quantity": 2.0,
+                "unit": ""
+            },
+            {
+                "name": "red bell peppers",
+                "quantity": 2.0,
+                "unit": ""
+            },
+            {
+                "name": "onion",
+                "quantity": 1.0,
+                "unit": ""
+            },
+            {
+                "name": "93% lean beef",
+                "quantity": 16.0,
+                "unit": "oz"
+            },
+            {
+                "name": "taco seasoning pack",
+                "quantity": 1.0,
+                "unit": ""
+            },
+            {
+                "name": "chili powder",
+                "quantity": 0.0,
+                "unit": ""
+            },
+            {
+                "name": "garlic powder",
+                "quantity": 0.0,
+                "unit": ""
+            },
+            {
+                "name": "pasta",
+                "quantity": 330.0,
+                "unit": "g"
+            },
+            {
+                "name": "cottage cheese",
+                "quantity": 350.0,
+                "unit": "g"
+            },
+            {
+                "name": "cheddar powder",
+                "quantity": 25.0,
+                "unit": "g"
+            },
+            {
+                "name": "Velveeta",
+                "quantity": 50.0,
+                "unit": "g"
+            },
+            {
+                "name": "cheddar shreds",
+                "quantity": 0.0,
+                "unit": ""
+            },
+            {
+                "name": "nutritional yeast",
+                "quantity": 10.0,
+                "unit": "g"
+            },
+            {
+                "name": "milk",
+                "quantity": 50.0,
+                "unit": "ml"
+            },
+            {
+                "name": "enchilada sauce",
+                "quantity": 50.0,
+                "unit": "g"
+            }
+        ],
+        "instructions": [
+            "Begin by dicing bell peppers and onions, and cooking on a pan over medium heat until they are softened, usually takes ~10 minutes. Start boiling salted water.",
+            "When the veggies are almost finished cooking, add pasta to boiling water.",
+            "Remove veggies from pan and start cooking beef over medium-high heat. Once nearly fully cooked, add taco seasoning, chili powder, garlic powder, a splash of water, and red enchilada sauce. Mix in the pepper and onion mixture.",
+            "Mix the cooked pasta and beef mixture together.",
+            "In a blender, add cottage cheese, cheddar powder, Velveeta shreds or low-fat cheddar cheese, nutritional yeast, and a splash of milk. Blend for 60-90 seconds to create a creamy cheese sauce. Optional: add hot sauce for extra spice.",
+            "Mix cheese sauce with pasta and beef mixture, and enjoy!"
+        ]
+    },
+    {
+        "name": "Honey Garlic Chicken & Rice",
+        "servings": 5,
+        "calories": 495.0,
+        "fat": {
+            "amount": 136.0,
+            "unit": "g"
+        },
+        "carbs": {
+            "amount": 596.0,
+            "unit": "g"
+        },
+        "protein": {
+            "amount": 376.0,
+            "unit": "g"
+        },
+        "ingredients": [
+            {
+                "name": "Chicken/Marinate:",
+                "quantity": 28.0,
+                "unit": "oz"
+            },
+            {
+                "name": "chili crisp",
+                "quantity": 1.0,
+                "unit": "Tbsp"
+            },
+            {
+                "name": "garlic powder",
+                "quantity": 1.0,
+                "unit": "Tbsp"
+            },
+            {
+                "name": "pepper",
+                "quantity": 0.5,
+                "unit": "Tbsp"
+            },
+            {
+                "name": "gochugaru",
+                "quantity": 1.0,
+                "unit": "Tbsp"
+            },
+            {
+                "name": "soy sauce",
+                "quantity": 2.0,
+                "unit": "Tbsp"
+            },
+            {
+                "name": "avocado oil",
+                "quantity": 1.0,
+                "unit": "Tbsp"
+            },
+            {
+                "name": "Rice:",
+                "quantity": 280.0,
+                "unit": "g"
+            },
+            {
+                "name": "water",
+                "quantity": 420.0,
+                "unit": "g"
+            },
+            {
+                "name": "Honey Garlic Sauce:",
+                "quantity": 2.0,
+                "unit": "Tbsp"
+            },
+            {
+                "name": "soy sauce",
+                "quantity": 1.0,
+                "unit": "tsp"
+            },
+            {
+                "name": "minced garlic",
+                "quantity": 1.0,
+                "unit": "tsp"
+            },
+            {
+                "name": "chili crisp",
+                "quantity": 1.0,
+                "unit": "Tbsp"
+            },
+            {
+                "name": "sesame oil",
+                "quantity": 1.0,
+                "unit": "Tbsp"
+            },
+            {
+                "name": "honey",
+                "quantity": 4.0,
+                "unit": "Tbsp"
+            },
+            {
+                "name": "mirin",
+                "quantity": 1.0,
+                "unit": "Tbsp"
+            },
+            {
+                "name": "gochugaru",
+                "quantity": 0.5,
+                "unit": "Tbsp"
+            },
+            {
+                "name": "Produce:",
+                "quantity": 1.0,
+                "unit": "white onion"
+            },
+            {
+                "name": "Green onions",
+                "quantity": 1.0,
+                "unit": "for garnish"
+            }
+        ],
+        "instructions": [
+            "Tenderize the chicken breast and dice the chicken into cubes. Once diced, marinate the chicken in a bowl with a combination of chili crisp, garlic powder, pepper, gochugaru, soy sauce, and avocado oil and let sit for at least 30 minutes.",
+            "In a different bowl, combine soy sauce, minced garlic, chili crisp, sesame oil, honey, mirin, and gochugaru to make the honey garlic sauce.",
+            "Rinse rice in a mesh strainer under cold water for 2 minutes, then combine with 420g of water and bring to a boil. Once boiling, reduce heat to low, cover, and let cook for 15 minutes. Remove from heat, keep covered, and let sit another 10 minutes to cook rice.",
+            "Place the chicken in a pan in two batches on high heat until the chicken is fully cooked through.",
+            "Once cooked, remove the chicken and saut\u00e9 onions until fully cooked and then combine with the cooked rice, top with cooked chicken and the honey garlic sauce, mix.",
+            "Top the meal off with green onions and enjoy."
+        ]
+    },
+    {
+        "name": "Korean Beef Rice Bowls",
+        "servings": 5,
+        "calories": 500.0,
+        "fat": {
+            "amount": 16.0,
+            "unit": "g"
+        },
+        "carbs": {
+            "amount": 53.0,
+            "unit": "g"
+        },
+        "protein": {
+            "amount": 34.0,
+            "unit": "g"
+        },
+        "ingredients": [
+            {
+                "name": "Ground beef",
+                "quantity": 24.0,
+                "unit": "oz"
+            },
+            {
+                "name": "Sesame oil",
+                "quantity": 2.0,
+                "unit": "tsp"
+            },
+            {
+                "name": "Minced garlic",
+                "quantity": 1.5,
+                "unit": "Tbsp"
+            },
+            {
+                "name": "Brown sugar",
+                "quantity": 30.0,
+                "unit": "g"
+            },
+            {
+                "name": "Soy sauce",
+                "quantity": 80.0,
+                "unit": "g"
+            },
+            {
+                "name": "Gochujang",
+                "quantity": 20.0,
+                "unit": "g"
+            },
+            {
+                "name": "Green onions",
+                "quantity": 3.0,
+                "unit": "pieces"
+            },
+            {
+                "name": "Basmati rice",
+                "quantity": 300.0,
+                "unit": "g"
+            },
+            {
+                "name": "Light mayo",
+                "quantity": 90.0,
+                "unit": "g"
+            },
+            {
+                "name": "Sriracha",
+                "quantity": 50.0,
+                "unit": "g"
+            },
+            {
+                "name": "Juice from lemon",
+                "quantity": 1.0,
+                "unit": "pieces"
+            },
+            {
+                "name": "Garlic powder",
+                "quantity": 0.5,
+                "unit": "tsp"
+            },
+            {
+                "name": "Milk or water",
+                "quantity": 2.0,
+                "unit": "Tbsp"
+            },
+            {
+                "name": "Salt",
+                "quantity": 0.0,
+                "unit": "to taste"
+            }
+        ],
+        "instructions": [
+            "Make the sriracha mayo by mixing up all the ingredients for the sauce.",
+            "Rinse rice in a mesh strainer under cold water for 2 minutes, then combine with 450g of water and bring to a boil. Once boiling, reduce heat to low, cover, and let cook for 15 minutes. Remove from heat, keep covered, and let sit another 10 minutes to cook rice.",
+            "Make the beef marinade by combining sesame oil, minced garlic, brown sugar, soy sauce and gochujang. Cook the lean beef and add in the marinade once it's 50% cooked through. Toss in chopped green onions and let it simmer for ~5 minutes or until the beef is fully cooked.",
+            "Assemble 5 bowls with rice, beef, and top with the homemade sriracha mayo and sesame seeds."
+        ]
+    },
+    {
+        "name": "Rigatoni Alla Vodka",
+        "servings": 6,
+        "calories": 515.0,
+        "fat": {
+            "amount": 10.0,
+            "unit": "g"
+        },
+        "carbs": {
+            "amount": 60.0,
+            "unit": "g"
+        },
+        "protein": {
+            "amount": 43.0,
+            "unit": "g"
+        },
+        "ingredients": [
+            {
+                "name": "24oz thin-sliced chicken breast",
+                "quantity": 24.0,
+                "unit": "oz"
+            },
+            {
+                "name": "1 Tbsp minced garlic",
+                "quantity": 1.0,
+                "unit": "Tbsp"
+            },
+            {
+                "name": "1 tsp onion powder",
+                "quantity": 1.0,
+                "unit": "tsp"
+            },
+            {
+                "name": "2 tsp coarse salt",
+                "quantity": 2.0,
+                "unit": "tsp"
+            },
+            {
+                "name": "1 Tbsp diced Calabrian chilis",
+                "quantity": 1.0,
+                "unit": "Tbsp"
+            },
+            {
+                "name": "1 Tbsp tomato paste",
+                "quantity": 1.0,
+                "unit": "Tbsp"
+            },
+            {
+                "name": "400g rigatoni",
+                "quantity": 400.0,
+                "unit": "g"
+            },
+            {
+                "name": "1 cup reserved pasta water",
+                "quantity": 1.0,
+                "unit": "cup"
+            },
+            {
+                "name": "15g olive oil",
+                "quantity": 15.0,
+                "unit": "g"
+            },
+            {
+                "name": "1 sweet onion, diced",
+                "quantity": 1.0,
+                "unit": "count"
+            },
+            {
+                "name": "5-7 cloves garlic, sliced",
+                "quantity": 5.0,
+                "unit": "count"
+            },
+            {
+                "name": "2 Tbsp Calabrian chilis",
+                "quantity": 2.0,
+                "unit": "Tbsp"
+            },
+            {
+                "name": "4 Tbsp tomato paste",
+                "quantity": 4.0,
+                "unit": "Tbsp"
+            },
+            {
+                "name": "28oz canned San Marzano tomatoes",
+                "quantity": 28.0,
+                "unit": "oz"
+            },
+            {
+                "name": "1 Tbsp fish sauce (optional)",
+                "quantity": 1.0,
+                "unit": "Tbsp"
+            },
+            {
+                "name": "100g low-fat milk",
+                "quantity": 100.0,
+                "unit": "g"
+            },
+            {
+                "name": "2 shots vodka",
+                "quantity": 2.0,
+                "unit": "shots"
+            },
+            {
+                "name": "300g blended cottage cheese",
+                "quantity": 300.0,
+                "unit": "g"
+            },
+            {
+                "name": "50g Parmigiano Reggiano, grated",
+                "quantity": 50.0,
+                "unit": "g"
+            }
+        ],
+        "instructions": [
+            "Marinate chicken breast with minced garlic, onion powder, salt, diced Calabrian chilis, tomato paste and water.",
+            "Heat 15g olive oil over medium. Add 1 diced onion, 5 sliced garlic cloves, 2 tbsp diced Calabrian chilis. Simmer 15 min until soft. Stir in 4 tbsp tomato paste; cook 3 min. Add 28oz canned San Marzano tomatoes, 1 tbsp fish sauce (optional). Break tomatoes, simmer 10 minutes until thick. Blend with 100g low-fat milk until smooth.",
+            "Preheat air fryer to 390\u00b0F (200\u00b0C). Cook chicken 9-12 minutes or until done.",
+            "Boil salted water, cook rigatoni until slightly underdone. Reserve 1 cup pasta water.",
+            "Pour sauce in a pan over medium heat, add 2 shots vodka, simmer 2 min. Add pasta and 3/4 cup pasta water, simmer until reduced. You can leave out the vodka and it will still be delicious, but it won't be vodka sauce :)",
+            "Remove from heat, stir in 300g blended cottage cheese, 50g grated Parmigiano Reggiano, 1/4 cup pasta water. Toss until smooth.",
+            "Top with chicken and enjoy."
+        ]
+    },
+    {
+        "name": "Green Chili Queso Mac N Cheese",
+        "servings": 5,
+        "calories": 510.0,
+        "fat": {
+            "amount": 126.0,
+            "unit": "g"
+        },
+        "carbs": {
+            "amount": 606.0,
+            "unit": "g"
+        },
+        "protein": {
+            "amount": 47.0,
+            "unit": "g"
+        },
+        "ingredients": [
+            {
+                "name": "Chicken thighs",
+                "quantity": 16.0,
+                "unit": "oz"
+            },
+            {
+                "name": "Salt, pepper, garlic, onion, paprika, chili powder",
+                "quantity": 0.0,
+                "unit": "varies"
+            },
+            {
+                "name": "Barilla protein pasta or pasta of choice",
+                "quantity": 1.0,
+                "unit": "box (14.5 oz)"
+            },
+            {
+                "name": "Cottage cheese",
+                "quantity": 400.0,
+                "unit": "g"
+            },
+            {
+                "name": "White cheddar",
+                "quantity": 45.0,
+                "unit": "g"
+            },
+            {
+                "name": "Minced garlic",
+                "quantity": 1.0,
+                "unit": "tsp"
+            },
+            {
+                "name": "White cheddar powder",
+                "quantity": 25.0,
+                "unit": "g"
+            },
+            {
+                "name": "Fat free milk",
+                "quantity": 65.0,
+                "unit": "g"
+            },
+            {
+                "name": "Cilantro",
+                "quantity": 1.0,
+                "unit": "pinch"
+            },
+            {
+                "name": "Hatch green chiles",
+                "quantity": 1.0,
+                "unit": "small can"
+            }
+        ],
+        "instructions": [
+            "Begin by seasoning boneless, skinless chicken thighs (even amounts of each seasoning, if you prefer to measure, mix each seasoning in a small bowl in bulk then use enough to completely cover each side of the chicken). Cook in air fryer at 375 for 12-15 minutes. Once cooked, dice the chicken into small pieces.",
+            "Cook your choice of pasta according to the instructions on the package.",
+            "Prepare the green chili queso sauce by mixing all the listed ingredients, microwave for 30 seconds, and blending until smooth.",
+            "Add the cooked pasta to a bowl and mix it with the green chili queso sauce.",
+            "Assemble the bowls by adding the diced chicken, a little hot sauce, pico de gallo, and cilantro on top of the mac and cheese. Enjoy!"
+        ]
+    },
+    {
+        "name": "Pepperoni Pizza Bagel Bites",
+        "servings": 5,
+        "calories": 515.0,
+        "fat": {
+            "amount": 17.0,
+            "unit": "g"
+        },
+        "carbs": {
+            "amount": 656.0,
+            "unit": "g"
+        },
+        "protein": {
+            "amount": 30.0,
+            "unit": "g"
+        },
+        "ingredients": [
+            {
+                "name": "English muffins",
+                "quantity": 10.0,
+                "unit": "whole"
+            },
+            {
+                "name": "Marinara sauce",
+                "quantity": 400.0,
+                "unit": "g"
+            },
+            {
+                "name": "Umami black garlic sauce",
+                "quantity": 50.0,
+                "unit": "g"
+            },
+            {
+                "name": "Parmigiano Reggiano",
+                "quantity": 33.0,
+                "unit": "g"
+            },
+            {
+                "name": "Chopped hot peppers",
+                "quantity": 60.0,
+                "unit": "g"
+            },
+            {
+                "name": "2% mozzarella cheese",
+                "quantity": 200.0,
+                "unit": "g"
+            },
+            {
+                "name": "Turkey pepperoni slices",
+                "quantity": 60.0,
+                "unit": "slices"
+            },
+            {
+                "name": "Hot honey",
+                "quantity": 33.0,
+                "unit": "g"
+            }
+        ],
+        "instructions": [
+            "Preheat your oven to 450\u00b0F.",
+            "Split and lightly spray each half of the English muffins with oil spray, and place them on a baking sheet. Bake in the oven for approximately 5 minutes, or until crispy.",
+            "Once the English muffins are done, remove them from the oven and add marinara sauce mixed with 'umami' black garlic sauce (or low sodium soy sauce) to each half. Then, add the diced peppers, shredded mozzarella cheese, and pepperoni slices.",
+            "Drizzle some hot honey over the top of each muffin half, and then place them back in the oven for another 5 minutes, or until the cheese is melted and bubbly.",
+            "Remove them from the oven and top with freshly grated Parmigiano Reggiano, oregano, and basil. Each 'serving' is 4 pizzas - separate into your containers of choice, and store frozen."
+        ]
+    },
+    {
+        "name": "Creamy Chicken Pesto Pasta",
+        "servings": 5,
+        "calories": 505.0,
+        "fat": {
+            "amount": 18.0,
+            "unit": "g"
+        },
+        "carbs": {
+            "amount": 426.0,
+            "unit": "g"
+        },
+        "protein": {
+            "amount": 51.0,
+            "unit": "g"
+        },
+        "ingredients": [
+            {
+                "name": "Boneless skinless chicken thighs",
+                "quantity": 20.0,
+                "unit": "oz"
+            },
+            {
+                "name": "Garlic, salt + pepper",
+                "quantity": 1.0,
+                "unit": "to taste"
+            },
+            {
+                "name": "Italian seasoning",
+                "quantity": 1.0,
+                "unit": "to taste"
+            },
+            {
+                "name": "Protein Penne pasta",
+                "quantity": 280.0,
+                "unit": "g"
+            },
+            {
+                "name": "Minced garlic",
+                "quantity": 10.0,
+                "unit": "cloves"
+            },
+            {
+                "name": "Basil",
+                "quantity": 25.0,
+                "unit": "g"
+            },
+            {
+                "name": "Milk",
+                "quantity": 125.0,
+                "unit": "ml"
+            },
+            {
+                "name": "1/3 fat cream cheese",
+                "quantity": 50.0,
+                "unit": "g"
+            },
+            {
+                "name": "2% cottage cheese",
+                "quantity": 250.0,
+                "unit": "g"
+            },
+            {
+                "name": "Parmigiano-Reggiano",
+                "quantity": 125.0,
+                "unit": "g"
+            },
+            {
+                "name": "Store bought pesto",
+                "quantity": 25.0,
+                "unit": "g"
+            }
+        ],
+        "instructions": [
+            "Season two boneless, skinless chicken thighs with salt, pepper, garlic, and Italian seasoning (even amounts of each seasoning, if you prefer to measure, mix each seasoning in a small bowl in bulk then use enough to completely cover each side of the chicken). Give them a quick sear on each side and finish them off in an air fryer at 375 for 10 minutes.",
+            "While the chicken is cooking, start cooking your high protein pasta in a separate pot.",
+            "In the same pan used to sear the chicken, cook the minced garlic over medium heat for about 2-3 minutes, reduce heat to the lowest setting and add basil and the rest of the pesto sauce ingredients. The goal is to lightly warm up the sauce ingredients here. Transfer to a blender and blend until completely smooth.",
+            "Chop cooked chicken into small pieces. Add the cooked pasta to a mixing bowl, pour over the pesto sauce, and toss in the chopped chicken thighs, and mix."
+        ]
+    },
+    {
+        "name": "Honey Garlic Chili Crisp Noodles",
+        "servings": 5,
+        "calories": 505.0,
+        "fat": {
+            "amount": 11.0,
+            "unit": "g"
+        },
+        "carbs": {
+            "amount": 636.0,
+            "unit": "g"
+        },
+        "protein": {
+            "amount": 40.0,
+            "unit": "g"
+        },
+        "ingredients": [
+            {
+                "name": "Chicken breast",
+                "quantity": 25.0,
+                "unit": "oz"
+            },
+            {
+                "name": "Garlic",
+                "quantity": 1.0,
+                "unit": "Tbsp"
+            },
+            {
+                "name": "Salt",
+                "quantity": 2.0,
+                "unit": "tsp"
+            },
+            {
+                "name": "Paprika",
+                "quantity": 1.0,
+                "unit": "tsp"
+            },
+            {
+                "name": "Pepper",
+                "quantity": 1.0,
+                "unit": "tsp"
+            },
+            {
+                "name": "Soy sauce",
+                "quantity": 1.0,
+                "unit": "Tbsp"
+            },
+            {
+                "name": "Chili crisp",
+                "quantity": 1.0,
+                "unit": "Tbsp"
+            },
+            {
+                "name": "Honey",
+                "quantity": 1.0,
+                "unit": "Tbsp"
+            },
+            {
+                "name": "Sriracha",
+                "quantity": 1.0,
+                "unit": "Tbsp"
+            },
+            {
+                "name": "Dried ramen packets (noodles)",
+                "quantity": 5.0,
+                "unit": "packets"
+            },
+            {
+                "name": "Corn starch",
+                "quantity": 1.0,
+                "unit": "tsp"
+            },
+            {
+                "name": "Soy sauce",
+                "quantity": 75.0,
+                "unit": "g"
+            },
+            {
+                "name": "Miso",
+                "quantity": 25.0,
+                "unit": "g"
+            },
+            {
+                "name": "Chili crisp or Chili oil",
+                "quantity": 25.0,
+                "unit": "g"
+            },
+            {
+                "name": "Sesame oil",
+                "quantity": 10.0,
+                "unit": "g"
+            },
+            {
+                "name": "Honey",
+                "quantity": 10.0,
+                "unit": "g"
+            },
+            {
+                "name": "Chili crisp (for garnish)",
+                "quantity": 1.0,
+                "unit": "serving"
+            },
+            {
+                "name": "Sesame seeds (for garnish)",
+                "quantity": 1.0,
+                "unit": "serving"
+            },
+            {
+                "name": "Green onions (for garnish)",
+                "quantity": 1.0,
+                "unit": "serving"
+            }
+        ],
+        "instructions": [
+            "Place the chicken breast in a large bowl and create a marinade with garlic, coarse salt, paprika, pepper, soy sauce, chili crisp, honey, and sriracha, mix it until combined and let marinate for at least 30-60 minutes.",
+            "Add the marinated chicken to the air fryer for 12 minutes at 400\u00b0F.",
+            "Combine all sauce ingredients, beginning with the corn starch, followed by soy sauce, miso, chili crisp or chili oil, sesame oil, and honey. Mix until fully combined.",
+            "Fully cook the noodles using the instructions on the packet.",
+            "Once cooked, combine the noodles with the sauce and then cut the cooked chicken into slices and place on top of the noodle mixture and top the meal with chili crisp, sesame seeds, and green onions."
+        ]
+    },
+    {
+        "name": "Buffalo Chicken Mac n Cheese",
+        "servings": 5,
+        "calories": 505.0,
+        "fat": {
+            "amount": 146.0,
+            "unit": "g"
+        },
+        "carbs": {
+            "amount": 596.0,
+            "unit": "g"
+        },
+        "protein": {
+            "amount": 396.0,
+            "unit": "g"
+        },
+        "ingredients": [
+            {
+                "name": "Boneless skinless chicken thighs",
+                "quantity": 18.0,
+                "unit": "oz"
+            },
+            {
+                "name": "Buffalo sauce",
+                "quantity": 40.0,
+                "unit": "g"
+            },
+            {
+                "name": "Soy sauce",
+                "quantity": 20.0,
+                "unit": "g"
+            },
+            {
+                "name": "Old Bay seasoning",
+                "quantity": 0.5,
+                "unit": "tsp"
+            },
+            {
+                "name": "Garlic powder",
+                "quantity": 0.5,
+                "unit": "tsp"
+            },
+            {
+                "name": "Smoked paprika",
+                "quantity": 0.5,
+                "unit": "tsp"
+            },
+            {
+                "name": "Pasta",
+                "quantity": 325.0,
+                "unit": "g"
+            },
+            {
+                "name": "Cottage cheese",
+                "quantity": 300.0,
+                "unit": "g"
+            },
+            {
+                "name": "Cream cheese",
+                "quantity": 150.0,
+                "unit": "g"
+            },
+            {
+                "name": "Cheddar powder",
+                "quantity": 25.0,
+                "unit": "g"
+            },
+            {
+                "name": "Buffalo sauce",
+                "quantity": 75.0,
+                "unit": "g"
+            },
+            {
+                "name": "Honey",
+                "quantity": 30.0,
+                "unit": "g"
+            }
+        ],
+        "instructions": [
+            "Slice chicken thighs into strips, and marinate in buffalo sauce, soy sauce, Old Bay, garlic powder, and smoked paprika for at least 30 minutes. On a grill, cook chicken over high heat for 2 minutes on each side until it's cooked through. Dice up the chicken into bite-sized pieces. (You can also air fry at 375 for 12 minutes, or pan fry).",
+            "Start cooking your pasta according to package instructions.",
+            "In a blender, blend cottage cheese, cream cheese, cheddar powder, buffalo sauce, soy sauce, and honey until smooth.",
+            "Drain the pasta and add it to a large mixing bowl. Pour the cheese sauce over the pasta and stir well. Add the diced buffalo chicken and mix again. Separate into 5 servings, and enjoy."
+        ]
+    },
+    {
+        "name": "Italian Meatball Pasta",
+        "servings": 5,
+        "calories": 510.0,
+        "fat": {
+            "amount": 11.0,
+            "unit": "g"
+        },
+        "carbs": {
+            "amount": 60.0,
+            "unit": "g"
+        },
+        "protein": {
+            "amount": 46.0,
+            "unit": "g"
+        },
+        "ingredients": [
+            {
+                "name": "Beef (96%)",
+                "quantity": 24.0,
+                "unit": "oz"
+            },
+            {
+                "name": "Breadcrumbs",
+                "quantity": 0.25,
+                "unit": "cup"
+            },
+            {
+                "name": "Milk",
+                "quantity": 80.0,
+                "unit": "g"
+            },
+            {
+                "name": "Parmigiano Reggiano",
+                "quantity": 30.0,
+                "unit": "g"
+            },
+            {
+                "name": "Salt",
+                "quantity": 1.5,
+                "unit": "tsp"
+            },
+            {
+                "name": "Minced Garlic",
+                "quantity": 1.5,
+                "unit": "Tbsp"
+            },
+            {
+                "name": "Red Chili Flakes",
+                "quantity": 1.0,
+                "unit": "tsp"
+            },
+            {
+                "name": "Fresh Basil",
+                "quantity": 2.0,
+                "unit": "tsp"
+            },
+            {
+                "name": "Soy Sauce",
+                "quantity": 1.0,
+                "unit": "tsp"
+            },
+            {
+                "name": "Black Pepper",
+                "quantity": 0.0,
+                "unit": ""
+            },
+            {
+                "name": "Medium Onion",
+                "quantity": 1.0,
+                "unit": ""
+            },
+            {
+                "name": "Celery",
+                "quantity": 1.0,
+                "unit": "stalk"
+            },
+            {
+                "name": "Medium Carrot",
+                "quantity": 1.0,
+                "unit": ""
+            },
+            {
+                "name": "Garlic",
+                "quantity": 4.0,
+                "unit": ""
+            },
+            {
+                "name": "San Marzano Tomatoes",
+                "quantity": 28.0,
+                "unit": "oz"
+            },
+            {
+                "name": "Gochujang",
+                "quantity": 1.0,
+                "unit": "Tbsp"
+            },
+            {
+                "name": "Parmigiano Reggiano",
+                "quantity": 30.0,
+                "unit": "g"
+            },
+            {
+                "name": "Fresh Basil (for garnish)",
+                "quantity": 0.0,
+                "unit": ""
+            },
+            {
+                "name": "Pasta",
+                "quantity": 300.0,
+                "unit": "g"
+            }
+        ],
+        "instructions": [
+            "Make the meatball mixture by combining bread crumbs, Parmesan Reggiano, seasonings, minced garlic, fresh basil, milk and soy sauce with 96% lean ground beef. Form the mixture into 20 equally sized meatballs.",
+            "Bake the meatballs in the oven at 400\u00b0F for 8 minutes.",
+            "Prep the sauce: In a separate pot, add chopped onion, celery, and carrot to a non-stick pot or pan over medium-low heat. Simmer until translucent. Add minced garlic and gochujang, simmer for 1-2 minutes, then add in your canned tomatoes. Add salt and pepper to taste, then blend. Add in chopped basil and the 30g of Parmigiano Reggiano. Place on the lowest heat setting.",
+            "Add the meatballs to the sauce, cover and let simmer for about 20 minutes to infuse the meatballs with the marinara flavor.",
+            "Cook pasta of choice, add all excess marinara sauce from meatballs to the pasta and mix. Separate into 5 servings, top with meatballs and Parmigiano, and enjoy!"
+        ]
+    },
+    {
+        "name": "Pepperoni Pizza Mac n Cheese",
+        "servings": 5,
+        "calories": 505.0,
+        "fat": {
+            "amount": 18.0,
+            "unit": "g"
+        },
+        "carbs": {
+            "amount": 596.0,
+            "unit": "g"
+        },
+        "protein": {
+            "amount": 36.0,
+            "unit": "g"
+        },
+        "ingredients": [
+            {
+                "name": "protein penne",
+                "quantity": 336.0,
+                "unit": "g"
+            },
+            {
+                "name": "1% milk",
+                "quantity": 600.0,
+                "unit": "g"
+            },
+            {
+                "name": "2% cottage cheese",
+                "quantity": 360.0,
+                "unit": "g"
+            },
+            {
+                "name": "Parmigiano Reggiano",
+                "quantity": 40.0,
+                "unit": "g"
+            },
+            {
+                "name": "cheddar cheese",
+                "quantity": 70.0,
+                "unit": "g"
+            },
+            {
+                "name": "all-purpose flour",
+                "quantity": 25.0,
+                "unit": "g"
+            },
+            {
+                "name": "marinara sauce",
+                "quantity": 120.0,
+                "unit": "g"
+            },
+            {
+                "name": "chopped pepperoni",
+                "quantity": 55.0,
+                "unit": "g"
+            }
+        ],
+        "instructions": [
+            "This one is very simple - add every ingredient to a large pot and turn the heat to medium-high. I like to slice the pepperoni's in to fourths, and make sure to finely shred fresh parmigiano reggiano for best results.",
+            "Once the mixture begins to bubble, reduce the heat to 3/10, place a lid on top of the pot, and set a timer for 20 minutes. Remove the lid every ~3 minutes to stir the mixture.",
+            "Remove the lid and let the mixture sit for approximately 5-10 minutes until fully thickened.",
+            "*Alternatively, you can also cook the pasta in water, blend all the sauce ingredients separately and lightly sautee the pepperonis. You'll likely need to reduce the milk quantity to ~100g if you do this, however, and it will lower the calories/macro a bit! I used normal pepperoni's - but turkey pepperoni could also be used for lower calories/fat."
+        ]
+    },
+    {
+        "name": "Butter Chicken Rice Bowls",
+        "servings": 5,
+        "calories": 510.0,
+        "fat": {
+            "amount": 13.0,
+            "unit": "g"
+        },
+        "carbs": {
+            "amount": 54.0,
+            "unit": "g"
+        },
+        "protein": {
+            "amount": 46.0,
+            "unit": "g"
+        },
+        "ingredients": [
+            {
+                "name": "Chicken Breast",
+                "quantity": 24.0,
+                "unit": "oz"
+            },
+            {
+                "name": "Greek Yogurt",
+                "quantity": 180.0,
+                "unit": "g"
+            },
+            {
+                "name": "Garam Masala",
+                "quantity": 1.0,
+                "unit": "tbsp"
+            },
+            {
+                "name": "Kashmiri Red Chili Powder",
+                "quantity": 1.0,
+                "unit": "tbsp"
+            },
+            {
+                "name": "Salt",
+                "quantity": 1.0,
+                "unit": "tsp"
+            },
+            {
+                "name": "Garlic Cloves",
+                "quantity": 3.0,
+                "unit": "cloves"
+            },
+            {
+                "name": "Basmati Rice",
+                "quantity": 300.0,
+                "unit": "g"
+            },
+            {
+                "name": "Butter",
+                "quantity": 30.0,
+                "unit": "g"
+            },
+            {
+                "name": "Onion",
+                "quantity": 1.0,
+                "unit": "whole"
+            },
+            {
+                "name": "Garlic Cloves",
+                "quantity": 6.0,
+                "unit": "cloves"
+            },
+            {
+                "name": "Ground Cumin",
+                "quantity": 2.0,
+                "unit": "tsp"
+            },
+            {
+                "name": "Coriander",
+                "quantity": 1.5,
+                "unit": "tsp"
+            },
+            {
+                "name": "Tomato (crushed)",
+                "quantity": 2.0,
+                "unit": "cans"
+            },
+            {
+                "name": "Cashews",
+                "quantity": 30.0,
+                "unit": "g"
+            },
+            {
+                "name": "Milk",
+                "quantity": 80.0,
+                "unit": "g"
+            },
+            {
+                "name": "Salt",
+                "quantity": 1.0,
+                "unit": "pinch"
+            },
+            {
+                "name": "Greek Yogurt (White Sauce)",
+                "quantity": 100.0,
+                "unit": "g"
+            },
+            {
+                "name": "Milk (White Sauce)",
+                "quantity": 50.0,
+                "unit": "g"
+            },
+            {
+                "name": "Garlic Powder (White Sauce)",
+                "quantity": 1.0,
+                "unit": "tsp"
+            },
+            {
+                "name": "Red Onions (Garnish)",
+                "quantity": 0.0,
+                "unit": "-"
+            },
+            {
+                "name": "Cilantro (Garnish)",
+                "quantity": 0.0,
+                "unit": "-"
+            }
+        ],
+        "instructions": [
+            "Tenderize chicken breast and cut into cubes. Marinate in yogurt, spices, and minced garlic for 45-60 minutes. Longer = better.",
+            "Rinse rice in a mesh strainer under cold water for 2 minutes, then combine with 450g of water and bring to a boil. Once boiling, reduce heat to low, cover, and let cook for 15 minutes. Remove from heat, keep covered, and let sit another 10 minutes to cook rice.",
+            "Cook chicken over high heat for 3-4 minutes on each side, then place in a bowl on the side.",
+            "Add half the light butter to the same pan and cook the onions for about 5 minutes. Add garlic, cumin, kashmiri chili powder, coriander, and garam masala and mix. Next, add 2 cans of crushed tomatoes and cashews and let it simmer for 15 minutes. Blend the sauce with the rest of the light butter and milk.",
+            "Combine the chicken and sauce, let it simmer, then separate the rice into 5 servings and top with the butter chicken, a drizzle of the white sauce, red onions and cilantro."
+        ]
+    },
+    {
+        "name": "Everything Bagel Chicken Alfredo",
+        "servings": 5,
+        "calories": 510.0,
+        "fat": {
+            "amount": 12.0,
+            "unit": "g"
+        },
+        "carbs": {
+            "amount": 546.0,
+            "unit": "g"
+        },
+        "protein": {
+            "amount": 516.0,
+            "unit": "g"
+        },
+        "ingredients": [
+            {
+                "name": "Boneless skinless chicken thighs",
+                "quantity": 16.0,
+                "unit": "oz"
+            },
+            {
+                "name": "Evaporated fat-free milk",
+                "quantity": 12.0,
+                "unit": "oz"
+            },
+            {
+                "name": "Cottage cheese",
+                "quantity": 350.0,
+                "unit": "g"
+            },
+            {
+                "name": "Parmigiano Reggiano",
+                "quantity": 100.0,
+                "unit": "g"
+            },
+            {
+                "name": "Salt",
+                "quantity": 0.0,
+                "unit": "to taste"
+            },
+            {
+                "name": "Pepper",
+                "quantity": 0.0,
+                "unit": "to taste"
+            },
+            {
+                "name": "Everything bagel seasoning",
+                "quantity": 1.5,
+                "unit": "Tbsp"
+            },
+            {
+                "name": "Protein penne pasta",
+                "quantity": 320.0,
+                "unit": "g"
+            }
+        ],
+        "instructions": [
+            "Season your chicken thighs (even amounts of each seasoning, if you prefer to measure, mix each seasoning in a small bowl in bulk then use enough to completely cover each side of the chicken) and air fry at 375 for 12-15 minutes or until cooked through. Let rest for 5 minutes, then chop into small pieces and set aside.",
+            "In a blender, combine low-fat cottage cheese, fat-free or 2% evaporated milk, and high-quality Parmigiano Reggiano. Microwave the mixture for a minute, then blend until smooth.",
+            "Cook any pasta of your choice and toss it in a pan with the alfredo sauce. Let it simmer on low heat to let the sauce absorb into the pasta.",
+            "Once the pasta is coated in the sauce, add the chopped chicken and mix it in. Sprinkle everything bagel seasoning on top of the dish and enjoy!"
+        ]
+    },
+    {
+        "name": "Pollo Asado Burrito Bowls",
+        "servings": 5,
+        "calories": 500.0,
+        "fat": {
+            "amount": 10.0,
+            "unit": "g"
+        },
+        "carbs": {
+            "amount": 52.0,
+            "unit": "g"
+        },
+        "protein": {
+            "amount": 50.0,
+            "unit": "g"
+        },
+        "ingredients": [
+            {
+                "name": "Boneless skinless chicken thighs",
+                "quantity": 28.0,
+                "unit": "oz"
+            },
+            {
+                "name": "Orange juice",
+                "quantity": 0.5,
+                "unit": "cup"
+            },
+            {
+                "name": "Soy sauce",
+                "quantity": 4.0,
+                "unit": "Tbsp"
+            },
+            {
+                "name": "Lime juice",
+                "quantity": 2.0,
+                "unit": "Tbsp"
+            },
+            {
+                "name": "Garlic",
+                "quantity": 8.0,
+                "unit": "cloves"
+            },
+            {
+                "name": "Cumin",
+                "quantity": 2.0,
+                "unit": "tsp"
+            },
+            {
+                "name": "Salt",
+                "quantity": 1.0,
+                "unit": "tsp"
+            },
+            {
+                "name": "Black pepper",
+                "quantity": 1.0,
+                "unit": "tsp"
+            },
+            {
+                "name": "Onion",
+                "quantity": 1.0,
+                "unit": "tsp"
+            },
+            {
+                "name": "Dried ancho chiles",
+                "quantity": 3.0,
+                "unit": "pieces"
+            },
+            {
+                "name": "Chipotle peppers",
+                "quantity": 3.0,
+                "unit": "pieces"
+            },
+            {
+                "name": "Honey",
+                "quantity": 20.0,
+                "unit": "g"
+            },
+            {
+                "name": "Cilantro",
+                "quantity": 1.0,
+                "unit": "handful"
+            },
+            {
+                "name": "Bell peppers",
+                "quantity": 5.0,
+                "unit": "pieces"
+            },
+            {
+                "name": "Onions",
+                "quantity": 2.0,
+                "unit": "pieces"
+            },
+            {
+                "name": "Taco seasoning",
+                "quantity": 1.0,
+                "unit": "packet"
+            },
+            {
+                "name": "Spanish RightRice",
+                "quantity": 300.0,
+                "unit": "g"
+            },
+            {
+                "name": "Plain Greek yogurt",
+                "quantity": 100.0,
+                "unit": "g"
+            },
+            {
+                "name": "Hot sauce",
+                "quantity": 50.0,
+                "unit": "g"
+            },
+            {
+                "name": "Salt",
+                "quantity": 1.0,
+                "unit": "pinch"
+            }
+        ],
+        "instructions": [
+            "Start by prepping the marinade by blending together orange juice, soy sauce, lime juice, garlic, cumin, salt, black pepper, onion, chipotle peppers, honey, and cilantro. Place dried ancho chiles on a plate, cover with a damp paper towel, and microwave for 45-60 seconds to rehydrate, then blend in to marinade. Combine with boneless skinless chicken thighs and let it marinate for at least an hour.",
+            "Preheat your oven to 450\u00b0F. Dice your veggies (bell peppers and onions) and toss them with taco seasoning. Spread them out on a baking sheet and bake for about 30 minutes until soft.",
+            "While the veggies are cooking, cook your rice according to the package instructions.",
+            "When the veggies are nearly done, toss the marinated chicken in the air fryer at 400 for 12-15 minutes.",
+            "Assemble your bowl by layering rice, fajita veggies, diced chicken, red onions, hot sauce, and cilantro. Enjoy!"
+        ]
+    },
+    {
+        "name": "Chicken Bulgogi Rice Bowls",
+        "servings": 5,
+        "calories": 495.0,
+        "fat": {
+            "amount": 136.0,
+            "unit": "g"
+        },
+        "carbs": {
+            "amount": 536.0,
+            "unit": "g"
+        },
+        "protein": {
+            "amount": 41.0,
+            "unit": "g"
+        },
+        "ingredients": [
+            {
+                "name": "Chicken Bulgogi",
+                "quantity": 32.0,
+                "unit": "oz"
+            },
+            {
+                "name": "Gochujang",
+                "quantity": 4.0,
+                "unit": "tbsp"
+            },
+            {
+                "name": "Soy Sauce",
+                "quantity": 2.0,
+                "unit": "tbsp"
+            },
+            {
+                "name": "Brown Sugar",
+                "quantity": 3.0,
+                "unit": "tbsp"
+            },
+            {
+                "name": "Minced Garlic",
+                "quantity": 2.0,
+                "unit": "tbsp"
+            },
+            {
+                "name": "Ginger Paste",
+                "quantity": 1.0,
+                "unit": "tsp"
+            },
+            {
+                "name": "Mirin",
+                "quantity": 1.5,
+                "unit": "tbsp"
+            },
+            {
+                "name": "Sesame Oil",
+                "quantity": 1.0,
+                "unit": "tbsp"
+            },
+            {
+                "name": "Black Pepper",
+                "quantity": 0.5,
+                "unit": "tsp"
+            },
+            {
+                "name": "Cucumber Salad",
+                "quantity": 400.0,
+                "unit": "g"
+            },
+            {
+                "name": "Diced Tomatoes",
+                "quantity": 400.0,
+                "unit": "g"
+            },
+            {
+                "name": "Lemon Juice",
+                "quantity": 0.5,
+                "unit": "item"
+            },
+            {
+                "name": "Basmati Rice",
+                "quantity": 280.0,
+                "unit": "g"
+            },
+            {
+                "name": "Black Garlic Umami Sauce",
+                "quantity": 3.0,
+                "unit": "tbsp"
+            }
+        ],
+        "instructions": [
+            "Make the marinade by mixing all the ingredients and marinate the chicken for at least 30 minutes to an hour. If you can do longer, that will yield better results - overnight is best.",
+            "Prepare the cucumber salad.",
+            "Rinse rice in a mesh strainer under cold water for 2 minutes, then combine with 420g of water and bring to a boil. Once boiling, reduce heat to low, cover, and let cook for 15 minutes. Remove from heat, keep covered, and let sit another 10 minutes to cook rice.",
+            "Air fry the marinated chicken at 400 for 12 minutes until fully cooked, work in 2-3 batches if needed.",
+            "Take any excess marinade and simmer until bubbling, add in Umami sauce or Soy sauce with a little bit of sriracha. Mix in cooked rice and salad pack (optional).",
+            "Combine all finished ingredients together and enjoy!"
+        ]
+    },
+    {
+        "name": "Halal Cart-Style Chicken & Rice",
+        "servings": 5,
+        "calories": 505.0,
+        "fat": {
+            "amount": 16.0,
+            "unit": "g"
+        },
+        "carbs": {
+            "amount": 50.0,
+            "unit": "g"
+        },
+        "protein": {
+            "amount": 43.0,
+            "unit": "g"
+        },
+        "ingredients": [
+            {
+                "name": "Shawarma Chicken",
+                "quantity": 25.0,
+                "unit": "oz"
+            },
+            {
+                "name": "Greek yogurt",
+                "quantity": 226.0,
+                "unit": "g"
+            },
+            {
+                "name": "Olive oil",
+                "quantity": 40.0,
+                "unit": "g"
+            },
+            {
+                "name": "Shawarma seasoning or 7 spice",
+                "quantity": 2.0,
+                "unit": "Tbsp"
+            },
+            {
+                "name": "Smoked paprika",
+                "quantity": 2.0,
+                "unit": "tsp"
+            },
+            {
+                "name": "Minced garlic",
+                "quantity": 1.0,
+                "unit": "Tbsp"
+            },
+            {
+                "name": "Salt",
+                "quantity": 1.0,
+                "unit": "tsp"
+            },
+            {
+                "name": "Yellow Rice",
+                "quantity": 1.0,
+                "unit": "Tbsp"
+            },
+            {
+                "name": "Butter",
+                "quantity": 1.0,
+                "unit": "Tbsp"
+            },
+            {
+                "name": "Turmeric",
+                "quantity": 1.0,
+                "unit": "tsp"
+            },
+            {
+                "name": "Cumin",
+                "quantity": 0.5,
+                "unit": "tsp"
+            },
+            {
+                "name": "Sea salt",
+                "quantity": 1.0,
+                "unit": "tsp"
+            },
+            {
+                "name": "Basmati rice",
+                "quantity": 300.0,
+                "unit": "g"
+            },
+            {
+                "name": "Chicken broth",
+                "quantity": 2.75,
+                "unit": "cups"
+            },
+            {
+                "name": "Small onion",
+                "quantity": 1.0,
+                "unit": ""
+            },
+            {
+                "name": "Garlic White Sauce",
+                "quantity": 226.0,
+                "unit": "g"
+            },
+            {
+                "name": "Lemon",
+                "quantity": 0.25,
+                "unit": "whole"
+            },
+            {
+                "name": "Honey",
+                "quantity": 1.0,
+                "unit": "Tbsp"
+            },
+            {
+                "name": "Garlic powder",
+                "quantity": 1.0,
+                "unit": "tsp"
+            },
+            {
+                "name": "Salt",
+                "quantity": 0.5,
+                "unit": "tsp"
+            },
+            {
+                "name": "Milk",
+                "quantity": 60.0,
+                "unit": "ml"
+            }
+        ],
+        "instructions": [
+            "Slice the chicken breast thin and dice into cubes, then marinate in a bowl with Greek yogurt, olive oil, shawarma seasoning, smoked paprika, minced garlic, salt and marinate for at least 1 hour - longer = better.",
+            "Dice up an onion and place it in a pot with butter. Cook until the onion is fully translucent and most water has been cooked off. Then, toss in a spice mix of turmeric, cumin, and sea salt.",
+            "Mix in rinsed uncooked rice and chicken broth. Bring the combination to a boil, cover, reduce heat to low, and cook for 15 minutes. Remove from heat, keep covered, and let sit for another 10 minutes.",
+            "Place the marinated chicken in the air fryer for 12 minutes at 400 (cook in batches if needed).",
+            "Combine all the ingredients for the white sauce, mix thoroughly, then assemble your rice bowls and garnish with diced Roma tomatoes and cilantro."
+        ]
+    },
+    {
+        "name": "Jalape\u00f1o Popper Mac n Cheese",
+        "servings": 5,
+        "calories": 510.0,
+        "fat": {
+            "amount": 126.0,
+            "unit": "g"
+        },
+        "carbs": {
+            "amount": 656.0,
+            "unit": "g"
+        },
+        "protein": {
+            "amount": 40.0,
+            "unit": "g"
+        },
+        "ingredients": [
+            {
+                "name": "Chicken/Bacon",
+                "quantity": 14.0,
+                "unit": "oz"
+            },
+            {
+                "name": "Salt",
+                "quantity": 1.0,
+                "unit": "tsp"
+            },
+            {
+                "name": "Garlic",
+                "quantity": 1.0,
+                "unit": "tsp"
+            },
+            {
+                "name": "Onion",
+                "quantity": 1.0,
+                "unit": "tsp"
+            },
+            {
+                "name": "Pepper",
+                "quantity": 1.0,
+                "unit": "tsp"
+            },
+            {
+                "name": "Paprika",
+                "quantity": 1.0,
+                "unit": "tsp"
+            },
+            {
+                "name": "Center cut bacon",
+                "quantity": 10.0,
+                "unit": "slices"
+            },
+            {
+                "name": "Elbow pasta",
+                "quantity": 380.0,
+                "unit": "g"
+            },
+            {
+                "name": "Cottage cheese",
+                "quantity": 300.0,
+                "unit": "g"
+            },
+            {
+                "name": "Light cream cheese",
+                "quantity": 80.0,
+                "unit": "g"
+            },
+            {
+                "name": "1% milk",
+                "quantity": 60.0,
+                "unit": "g"
+            },
+            {
+                "name": "Pickled jalape\u00f1o pieces",
+                "quantity": 10.0,
+                "unit": "pcs"
+            },
+            {
+                "name": "Pickled jalape\u00f1o juice",
+                "quantity": 2.0,
+                "unit": "Tbsps"
+            },
+            {
+                "name": "Honey",
+                "quantity": 25.0,
+                "unit": "g"
+            },
+            {
+                "name": "Salt",
+                "quantity": 0.0,
+                "unit": "to taste"
+            },
+            {
+                "name": "Black pepper",
+                "quantity": 0.0,
+                "unit": "to taste"
+            },
+            {
+                "name": "Chives",
+                "quantity": 0.0,
+                "unit": "garnish"
+            }
+        ],
+        "instructions": [
+            "Tenderize the chicken breast and season generously with salt, garlic, onion, pepper, and paprika (even amounts of each seasoning, if you prefer to measure, mix each seasoning in a small bowl in bulk then use enough to completely cover each side of the chicken).",
+            "Once seasoned, cook the chicken in the air fryer for 12 minutes at 375\u00b0F.",
+            "In a blender, add cottage cheese, cream cheese, 1% milk, jalape\u00f1o pieces, pickled jalape\u00f1o juice, honey, salt and pepper to taste and blend until smooth.",
+            "Cook the pasta according to the instructions on the box. Dice 10 pieces of bacon into small cubes and cook on a pan on medium-high heat until it reaches your desired level of crispiness.",
+            "Once the bacon is cooked, remove from the pan, drain excess grease and turn off the heat. Once the heat is off, pour the jalape\u00f1o sauce in the pan and combine it with the cooked pasta and cooked chicken. Top the meal off with the crispy bacon and chives and enjoy!"
+        ]
+    },
+    {
+        "name": "Roasted Garlic Poblano Chicken & Rice",
+        "servings": 7,
+        "calories": 515.0,
+        "fat": {
+            "amount": 136.0,
+            "unit": "g"
+        },
+        "carbs": {
+            "amount": 476.0,
+            "unit": "g"
+        },
+        "protein": {
+            "amount": 526.0,
+            "unit": "g"
+        },
+        "ingredients": [
+            {
+                "name": "Chicken Breast",
+                "quantity": 48.0,
+                "unit": "oz"
+            },
+            {
+                "name": "Fajita Seasoning",
+                "quantity": 3.0,
+                "unit": "packets"
+            },
+            {
+                "name": "Oil",
+                "quantity": 1.0,
+                "unit": "tablespoon"
+            },
+            {
+                "name": "Poblanos",
+                "quantity": 4.0,
+                "unit": "pieces"
+            },
+            {
+                "name": "Jalapenos",
+                "quantity": 4.0,
+                "unit": "pieces"
+            },
+            {
+                "name": "Garlic",
+                "quantity": 6.0,
+                "unit": "cloves"
+            },
+            {
+                "name": "Greek Yogurt",
+                "quantity": 200.0,
+                "unit": "g"
+            },
+            {
+                "name": "Olive Oil",
+                "quantity": 30.0,
+                "unit": "g"
+            },
+            {
+                "name": "Cilantro",
+                "quantity": 1.0,
+                "unit": "handful"
+            },
+            {
+                "name": "Milk",
+                "quantity": 60.0,
+                "unit": "ml"
+            },
+            {
+                "name": "Lemon Juice",
+                "quantity": 1.0,
+                "unit": "/4"
+            },
+            {
+                "name": "Jasmine Rice",
+                "quantity": 420.0,
+                "unit": "g"
+            },
+            {
+                "name": "Feta Cheese",
+                "quantity": 35.0,
+                "unit": "g"
+            }
+        ],
+        "instructions": [
+            "Tenderize chicken breast (flatten to even out thickness), coat with oil of choice, then cover with fajita seasoning. Let marinate while you prep your sauce.",
+            "For the garlic poblano sauce, slice poblanos and jalapenos, remove core/seeds, and place on a lightly oiled baking sheet. Add a small amount of oil to 6 cloves of garlic, along with salt and pepper, and wrap in foil. Add to baking sheet along with peppers and bake at 400 for 30-35 minutes or until softened and slightly charred.",
+            "Add peppers and garlic to a blender, along with olive oil, cilantro, salt & pepper, milk and lemon juice. Blend until completely smooth and emulsified - taste and adjust salt to your preference.",
+            "Cook rice. While rice cooks, preheat a grill on medium-high (you could also simply bake if you don't have a grill). Cook chicken for 5-6 minutes per side, lid closed, or until chicken is cooked.",
+            "Mix cooked rice with 1/2 your sauce - reserve the rest for topping. Assemble bowls - add rice, sliced chicken, pour over sauce, and top with feta and red chili flakes, and enjoy!"
+        ]
+    },
+    {
+        "name": "White Cheddar Truffle Mac",
+        "servings": 6,
+        "calories": 500.0,
+        "fat": {
+            "amount": 10.0,
+            "unit": "g"
+        },
+        "carbs": {
+            "amount": 16.0,
+            "unit": "g"
+        },
+        "protein": {
+            "amount": 38.0,
+            "unit": "g"
+        },
+        "ingredients": [
+            {
+                "name": "Chicken",
+                "quantity": 12.0,
+                "unit": "oz"
+            },
+            {
+                "name": "White Cheddar Mac n' Cheese",
+                "quantity": 3.0,
+                "unit": "boxes"
+            },
+            {
+                "name": "Cottage cheese",
+                "quantity": 600.0,
+                "unit": "g"
+            },
+            {
+                "name": "Truffle oil",
+                "quantity": 6.0,
+                "unit": "g"
+            },
+            {
+                "name": "White wine vinegar (or lemon juice)",
+                "quantity": 1.0,
+                "unit": "tsp"
+            }
+        ],
+        "instructions": [
+            "Season chicken breast evenly with salt, garlic, pepper, and splash it with white wine vinegar (or lemon juice).",
+            "Place the chicken in the air fryer at 375 for 8-10 minutes until fully cooked through. A secondary option would be to just use shredded rotisserie chicken instead of cooking your own.",
+            "Blend cheese packets from Mac N Cheese boxes with cottage cheese and truffle oil in a blender for about 60-90 seconds until smooth.",
+            "Cook pasta from the Mac N Cheese box according to the instructions on the box.",
+            "Dice up the chicken and stir it in a separate pan with the cooked pasta and the sauce and enjoy!"
+        ]
+    },
+    {
+        "name": "Cajun Chicken Alfredo",
+        "servings": 5,
+        "calories": 515.0,
+        "fat": {
+            "amount": 186.0,
+            "unit": "g"
+        },
+        "carbs": {
+            "amount": 456.0,
+            "unit": "g"
+        },
+        "protein": {
+            "amount": 46.0,
+            "unit": "g"
+        },
+        "ingredients": [
+            {
+                "name": "Chicken breast",
+                "quantity": 15.0,
+                "unit": "oz"
+            },
+            {
+                "name": "Cajun seasoning",
+                "quantity": 2.5,
+                "unit": "tsp"
+            },
+            {
+                "name": "Olive oil",
+                "quantity": 10.0,
+                "unit": "g"
+            },
+            {
+                "name": "Lemon juice",
+                "quantity": 1.0,
+                "unit": "splash"
+            },
+            {
+                "name": "Andouille chicken sausage",
+                "quantity": 2.0,
+                "unit": "links"
+            },
+            {
+                "name": "Protein Penne pasta",
+                "quantity": 280.0,
+                "unit": "g"
+            },
+            {
+                "name": "Fat cream cheese",
+                "quantity": 110.0,
+                "unit": "g"
+            },
+            {
+                "name": "Parmigiano-Reggiano",
+                "quantity": 50.0,
+                "unit": "g"
+            },
+            {
+                "name": "Mozzarella",
+                "quantity": 80.0,
+                "unit": "g"
+            },
+            {
+                "name": "1% milk",
+                "quantity": 350.0,
+                "unit": "ml"
+            },
+            {
+                "name": "Salt",
+                "quantity": 0.0,
+                "unit": "to taste"
+            },
+            {
+                "name": "Chopped parsley",
+                "quantity": 2.5,
+                "unit": "Tbsp"
+            },
+            {
+                "name": "Chopped chives",
+                "quantity": 2.5,
+                "unit": "Tbsp"
+            }
+        ],
+        "instructions": [
+            "Dice the chicken breast into cubes and marinate in olive oil, lemon juice, and Cajun seasoning + salt.",
+            "Chop the Andouille sausage into small pieces and set aside for later.",
+            "Cook the pasta according to the instructions on the box.",
+            "Place the chicken on a pan on medium-high heat and cook it on both sides until fully cooked and then add in the chopped sausage. Cook for 2-3 more minutes.",
+            "Remove the chicken and sausage from the pan and create the sauce by melting down cream cheese and adding in milk, mozzarella, Parmigiano-Reggiano and cajun seasoning over low heat.",
+            "Once combined, add back in the chicken, sausage, cooked pasta and top it off with chopped parsley and chives and enjoy!"
+        ]
+    },
+    {
+        "name": "Southwest Chicken & Veggie Orzo",
+        "servings": 6,
+        "calories": 510.0,
+        "fat": {
+            "amount": 136.0,
+            "unit": "g"
+        },
+        "carbs": {
+            "amount": 596.0,
+            "unit": "g"
+        },
+        "protein": {
+            "amount": 416.0,
+            "unit": "g"
+        },
+        "ingredients": [
+            {
+                "name": "Boneless skinless chicken thighs",
+                "quantity": 24.0,
+                "unit": "oz"
+            },
+            {
+                "name": "Salt",
+                "quantity": 1.0,
+                "unit": "tbsp"
+            },
+            {
+                "name": "Garlic",
+                "quantity": 1.0,
+                "unit": "tbsp"
+            },
+            {
+                "name": "Onion",
+                "quantity": 1.0,
+                "unit": "tbsp"
+            },
+            {
+                "name": "Smoked paprika",
+                "quantity": 1.0,
+                "unit": "tbsp"
+            },
+            {
+                "name": "Cumin",
+                "quantity": 1.0,
+                "unit": "tsp"
+            },
+            {
+                "name": "Cinnamon",
+                "quantity": 1.0,
+                "unit": "dash"
+            },
+            {
+                "name": "Amy's southwestern vegetable soup",
+                "quantity": 3.0,
+                "unit": "cans"
+            },
+            {
+                "name": "Vegetable or chicken broth",
+                "quantity": 12.0,
+                "unit": "oz"
+            },
+            {
+                "name": "Orzo",
+                "quantity": 336.0,
+                "unit": "g"
+            },
+            {
+                "name": "Hot sauce",
+                "quantity": 1.0,
+                "unit": "to taste"
+            },
+            {
+                "name": "Cilantro",
+                "quantity": 1.0,
+                "unit": "to taste"
+            },
+            {
+                "name": "Cheddar cheese",
+                "quantity": 120.0,
+                "unit": "g"
+            },
+            {
+                "name": "Plain Greek yogurt",
+                "quantity": 240.0,
+                "unit": "g"
+            }
+        ],
+        "instructions": [
+            "Add the soup, vegetable broth, hot sauce of choice to a pot and bring to a boil. Add as much of any seasonings you like, be generous with the seasoning quantity!",
+            "Add in Orzo, cover and cook for ~10 minutes",
+            "While the orzo is cooking, season chicken thighs (even amounts of each seasoning except for cinnamon, if you prefer to measure, mix each seasoning in a small bowl in bulk then use enough to completely cover each side of the chicken) and add to air fryer at 375 for 12 minutes and chop into small pieces when fully cooked",
+            "Reduce heat on orzo to low, remove lid, and stir and simmer until pasta has absorbed all the liquid thickened",
+            "Add in chicken, cheddar and Greek yogurt, mix, and enjoy!"
+        ]
+    },
+    {
+        "name": "Chorizo Mac N Cheese",
+        "servings": 5,
+        "calories": 500.0,
+        "fat": {
+            "amount": 136.0,
+            "unit": "g"
+        },
+        "carbs": {
+            "amount": 566.0,
+            "unit": "g"
+        },
+        "protein": {
+            "amount": 396.0,
+            "unit": "g"
+        },
+        "ingredients": [
+            {
+                "name": "Beef Chorizo",
+                "quantity": 320.0,
+                "unit": "g"
+            },
+            {
+                "name": "Dried Guajillo peppers",
+                "quantity": 10.0,
+                "unit": "pieces"
+            },
+            {
+                "name": "Dried pasilla peppers",
+                "quantity": 4.0,
+                "unit": "pieces"
+            },
+            {
+                "name": "Chili water",
+                "quantity": 0.5,
+                "unit": "cup"
+            },
+            {
+                "name": "Ground paprika",
+                "quantity": 2.0,
+                "unit": "tbsp"
+            },
+            {
+                "name": "Ground oregano",
+                "quantity": 1.0,
+                "unit": "tbsp"
+            },
+            {
+                "name": "Ground cumin",
+                "quantity": 2.0,
+                "unit": "tsps"
+            },
+            {
+                "name": "Coarse salt",
+                "quantity": 2.0,
+                "unit": "tbsp"
+            },
+            {
+                "name": "Black pepper",
+                "quantity": 1.5,
+                "unit": "tsps"
+            },
+            {
+                "name": "Garlic cloves",
+                "quantity": 5.0,
+                "unit": "pieces"
+            },
+            {
+                "name": "ACV",
+                "quantity": 0.5,
+                "unit": "cup"
+            },
+            {
+                "name": "Pasta",
+                "quantity": 400.0,
+                "unit": "g"
+            },
+            {
+                "name": "Fat-free cottage cheese",
+                "quantity": 450.0,
+                "unit": "g"
+            },
+            {
+                "name": "Low-fat cheddar cheese",
+                "quantity": 80.0,
+                "unit": "g"
+            },
+            {
+                "name": "1% milk",
+                "quantity": 80.0,
+                "unit": "g"
+            },
+            {
+                "name": "Cheddar cheese powder",
+                "quantity": 30.0,
+                "unit": "g"
+            },
+            {
+                "name": "Nutritional yeast",
+                "quantity": 5.0,
+                "unit": "g"
+            },
+            {
+                "name": "Toppings (low-fat cheddar cheese)",
+                "quantity": 80.0,
+                "unit": "g"
+            }
+        ],
+        "instructions": [
+            "De-seed and de-stem 10 dried Guajillo and 4 dried Pasilla peppers. Soak in hot water for 10 min, reserve 1/2 cup chile water. Blend soaked peppers, chile water, 2 tbsp paprika, 1 tbsp oregano, 2 tsp cumin, 2 tbsp kosher salt, 1.5 tsp black pepper, 5 garlic cloves, 1/2 cup apple cider vinegar until smooth. Mix with 320g 93% ground beef, marinate 8-12 hours.",
+            "Heat skillet on high, cook chorizo until well-browned and fully cooked. Set aside.",
+            "Cook 400g pasta until al dente, drain. Blend 450g fat-free cottage cheese, 80g low-fat cheddar, 80g 1% milk, 30g cheddar powder, 5g nutritional yeast until smooth.",
+            "Preheat oven to 350\u00b0F (175\u00b0C). Combine cooked pasta with sauce, top with chorizo and 80g low-fat cheddar. Bake 10-15 min until cheese melts and bubbles.",
+            "Garnish with cilantro, serve immediately or divide into 6 portions for meal prep."
+        ]
+    },
+    {
+        "name": "Cheesy Butternut Orzo",
+        "servings": 5,
+        "calories": 510.0,
+        "fat": {
+            "amount": 11.0,
+            "unit": "g"
+        },
+        "carbs": {
+            "amount": 686.0,
+            "unit": "g"
+        },
+        "protein": {
+            "amount": 396.0,
+            "unit": "g"
+        },
+        "ingredients": [
+            {
+                "name": "Boneless skinless chicken thighs",
+                "quantity": 16.0,
+                "unit": "oz"
+            },
+            {
+                "name": "Butternut squash",
+                "quantity": 500.0,
+                "unit": "g"
+            },
+            {
+                "name": "Olive oil",
+                "quantity": 10.0,
+                "unit": "g"
+            },
+            {
+                "name": "Cottage cheese",
+                "quantity": 150.0,
+                "unit": "g"
+            },
+            {
+                "name": "Parmigiano Reggiano",
+                "quantity": 50.0,
+                "unit": "g"
+            },
+            {
+                "name": "1% milk",
+                "quantity": 100.0,
+                "unit": "ml"
+            },
+            {
+                "name": "Orzo",
+                "quantity": 3649.0,
+                "unit": "g"
+            },
+            {
+                "name": "Salt",
+                "quantity": 0.0,
+                "unit": "to taste"
+            },
+            {
+                "name": "Garlic",
+                "quantity": 0.0,
+                "unit": "to taste"
+            },
+            {
+                "name": "Pepper",
+                "quantity": 0.0,
+                "unit": "to taste"
+            },
+            {
+                "name": "Paprika",
+                "quantity": 0.0,
+                "unit": "to taste"
+            },
+            {
+                "name": "Chipotle chili powder",
+                "quantity": 0.0,
+                "unit": "to taste"
+            }
+        ],
+        "instructions": [
+            "Cube one butternut squash, weigh out 500g. Add 10g of olive oil, roast at 400 for 30 minutes or until fork tender. Blend with cheese ingredients to make sauce. Make sure to blend to ~2 minutes so sauce gets completely smooth.",
+            "While the orzo is cooking, season chicken thighs (even amounts of each seasoning, if you prefer to measure, mix each seasoning in a small bowl in bulk then use enough to completely cover each side of the chicken) and add to air fryer at 375 for 12 minutes and chop into small pieces when fully cooked.",
+            "Drain pasta, toss with the butternut cheese sauce, then top with your chipotle chicken and enjoy!"
+        ]
+    },
+    {
+        "name": "Spicy Tomato Chicken Pasta",
+        "servings": 5,
+        "calories": 500.0,
+        "fat": {
+            "amount": 16.0,
+            "unit": "g"
+        },
+        "carbs": {
+            "amount": 56.0,
+            "unit": "g"
+        },
+        "protein": {
+            "amount": 36.0,
+            "unit": "g"
+        },
+        "ingredients": [
+            {
+                "name": "chicken breast",
+                "quantity": 282.0,
+                "unit": "oz"
+            },
+            {
+                "name": "chopped sundried tomatoes",
+                "quantity": 180.0,
+                "unit": "g"
+            },
+            {
+                "name": "tomato paste",
+                "quantity": 30.0,
+                "unit": "g"
+            },
+            {
+                "name": "soy sauce",
+                "quantity": 30.0,
+                "unit": "g"
+            },
+            {
+                "name": "olive oil",
+                "quantity": 15.0,
+                "unit": "g"
+            },
+            {
+                "name": "salt",
+                "quantity": 0.5,
+                "unit": "tsp"
+            },
+            {
+                "name": "pepper",
+                "quantity": 0.5,
+                "unit": "tsp"
+            },
+            {
+                "name": "garlic",
+                "quantity": 0.5,
+                "unit": "tsp"
+            },
+            {
+                "name": "red chili flakes",
+                "quantity": 0.5,
+                "unit": "tsp"
+            },
+            {
+                "name": "Pasta",
+                "quantity": 336.0,
+                "unit": "g"
+            },
+            {
+                "name": "Arrabbiata (or any marinara)",
+                "quantity": 200.0,
+                "unit": "g"
+            },
+            {
+                "name": "1% milk",
+                "quantity": 80.0,
+                "unit": "g"
+            },
+            {
+                "name": "1/3 fat cream cheese",
+                "quantity": 100.0,
+                "unit": "g"
+            },
+            {
+                "name": "honey",
+                "quantity": 30.0,
+                "unit": "g"
+            }
+        ],
+        "instructions": [
+            "Flatten and dice chicken breast into cubes. Add chopped sundried tomatoes, tomato paste, soy sauce, olive oil, and seasonings to marinate the chicken.",
+            "Cook the pasta according to the instructions on the box.",
+            "Brown chicken over medium high heat on both sides until fully cooked through.",
+            "Once cooked through, reduce heat, and add in store bought marinara, 1% milk, 1/3 fat cream cheese, honey, the cooked pasta and combine."
+        ]
+    },
+    {
+        "name": "Breakfast Mac n Cheese",
+        "servings": 6,
+        "calories": 500.0,
+        "fat": {
+            "amount": 20.0,
+            "unit": "g"
+        },
+        "carbs": {
+            "amount": 376.0,
+            "unit": "g"
+        },
+        "protein": {
+            "amount": 516.0,
+            "unit": "g"
+        },
+        "ingredients": [
+            {
+                "name": "Bacon",
+                "quantity": 9.0,
+                "unit": "slices"
+            },
+            {
+                "name": "Turkey sausage",
+                "quantity": 15.0,
+                "unit": "oz"
+            },
+            {
+                "name": "2% cottage cheese",
+                "quantity": 360.0,
+                "unit": "g"
+            },
+            {
+                "name": "2% cheddar",
+                "quantity": 45.0,
+                "unit": "g"
+            },
+            {
+                "name": "Parmigiano Reggiano",
+                "quantity": 30.0,
+                "unit": "g"
+            },
+            {
+                "name": "Powdered cheddar",
+                "quantity": 21.0,
+                "unit": "g"
+            },
+            {
+                "name": "Milk",
+                "quantity": 90.0,
+                "unit": "ml"
+            },
+            {
+                "name": "Garlic powder",
+                "quantity": 1.5,
+                "unit": "tsp"
+            },
+            {
+                "name": "Smoked paprika",
+                "quantity": 1.5,
+                "unit": "tsp"
+            },
+            {
+                "name": "Rubbed sage",
+                "quantity": 1.0,
+                "unit": "tsp"
+            },
+            {
+                "name": "Protein pasta",
+                "quantity": 336.0,
+                "unit": "g"
+            }
+        ],
+        "instructions": [
+            "Dice bacon and cook in a pan over medium heat along with your turkey sausage of choice.",
+            "Cook pasta according to packaging instructions.",
+            "Add cottage cheese, cheddar, parmigiano, cheddar powder, milk, garlic powder, smoked paprika, and rubbed sage to a blender and blend until completely smooth.",
+            "In the same pan you cooked your turkey bacon and sausage, pour over your cheese sauce (turn off heat), mix with bacon and sausage, and pour over your cooked pasta to combine. Split in to 6 even servings, and enjoy!"
+        ]
+    },
+    {
+        "name": "Chimichurri Pasta w/ BBQ Chicken",
+        "servings": 6,
+        "calories": 510.0,
+        "fat": {
+            "amount": 17.0,
+            "unit": "g"
+        },
+        "carbs": {
+            "amount": 53.0,
+            "unit": "g"
+        },
+        "protein": {
+            "amount": 38.0,
+            "unit": "g"
+        },
+        "ingredients": [
+            {
+                "name": "Boneless skinless chicken thighs",
+                "quantity": 32.0,
+                "unit": "oz"
+            },
+            {
+                "name": "Soy sauce",
+                "quantity": 30.0,
+                "unit": "g"
+            },
+            {
+                "name": "Worcestershire sauce",
+                "quantity": 15.0,
+                "unit": "g"
+            },
+            {
+                "name": "Sugar-free BBQ sauce",
+                "quantity": 90.0,
+                "unit": "g"
+            },
+            {
+                "name": "Garlic powder",
+                "quantity": 1.0,
+                "unit": "tsp"
+            },
+            {
+                "name": "Chili powder",
+                "quantity": 1.0,
+                "unit": "tsp"
+            },
+            {
+                "name": "Smoked paprika",
+                "quantity": 1.0,
+                "unit": "tsp"
+            },
+            {
+                "name": "Pasta of choice",
+                "quantity": 384.0,
+                "unit": "g"
+            },
+            {
+                "name": "Fresh cilantro",
+                "quantity": 0.75,
+                "unit": "cup"
+            },
+            {
+                "name": "Minced garlic",
+                "quantity": 12.0,
+                "unit": "cloves"
+            },
+            {
+                "name": "Olive oil",
+                "quantity": 60.0,
+                "unit": "g"
+            },
+            {
+                "name": "Lemon juice or red wine vinegar",
+                "quantity": 120.0,
+                "unit": "g"
+            },
+            {
+                "name": "Red chili flakes",
+                "quantity": 1.5,
+                "unit": "tsp"
+            },
+            {
+                "name": "Dried oregano",
+                "quantity": 2.5,
+                "unit": "tsp"
+            },
+            {
+                "name": "Coarse salt",
+                "quantity": 3.0,
+                "unit": "tsp"
+            },
+            {
+                "name": "Pepper",
+                "quantity": 0.75,
+                "unit": "tsp"
+            },
+            {
+                "name": "Honey",
+                "quantity": 30.0,
+                "unit": "g"
+            },
+            {
+                "name": "Water",
+                "quantity": 1.0,
+                "unit": "cup"
+            }
+        ],
+        "instructions": [
+            "In a bowl, mix together the ingredients for the barbecue marinade. Add chicken thighs to the marinade and let them sit while you prepare the chimichurri sauce.",
+            "Finely chop cilantro or parsley and mix with other chimichurri ingredients, using minimal olive oil to keep the calorie count low.",
+            "Preheat your grill to high heat. Place the marinated chicken on the grill, cook until nicely charred and the internal temperature reaches 165\u00b0F.",
+            "Bring a pot of salted water to a boil and cook the pasta according to the package instructions. In a pan over low heat, heat the chimichurri sauce, adding 1/3 cup of pasta water (pull from the pasta pot once the pasta is ~1 minute away from being done cooking). Once the pasta is cooked and drained, toss it with the chimichurri sauce.",
+            "Top the chimichurri pasta with grilled barbecue chicken and enjoy!"
+        ]
+    },
+    {
+        "name": "Spicy Sausage Pasta",
+        "servings": 5,
+        "calories": 505.0,
+        "fat": {
+            "amount": 15.0,
+            "unit": "g"
+        },
+        "carbs": {
+            "amount": 16.0,
+            "unit": "g"
+        },
+        "protein": {
+            "amount": 40.0,
+            "unit": "g"
+        },
+        "ingredients": [
+            {
+                "name": "Turkey sausage",
+                "quantity": 14.0,
+                "unit": "oz"
+            },
+            {
+                "name": "Barilla protein pasta",
+                "quantity": 1.0,
+                "unit": "box (14.5 oz) or pasta of choice"
+            },
+            {
+                "name": "Cottage cheese",
+                "quantity": 200.0,
+                "unit": "g"
+            },
+            {
+                "name": "Arrabbiata sauce",
+                "quantity": 200.0,
+                "unit": "g"
+            },
+            {
+                "name": "Parmigiano Reggiano",
+                "quantity": 50.0,
+                "unit": "g"
+            },
+            {
+                "name": "Red chili flakes",
+                "quantity": 1.0,
+                "unit": "dash"
+            },
+            {
+                "name": "Garlic powder",
+                "quantity": 1.0,
+                "unit": "dash"
+            },
+            {
+                "name": "Black pepper",
+                "quantity": 1.0,
+                "unit": "dash"
+            },
+            {
+                "name": "Honey",
+                "quantity": 10.0,
+                "unit": "g"
+            }
+        ],
+        "instructions": [
+            "In a blender, combine low-fat cottage cheese, store bought arrabbiata (or any marinara sauce), freshly grated Parmigiano Reggiano cheese, red chili flakes, a dash of garlic powder and black pepper, and honey. Blend until completely smooth.",
+            "Using turkey sausage of choice, cook over high heat and crumble in to small pieces.",
+            "Once the sausage is cooked, turn off heat (make sure to allow time for pan to cool), then pour over the sauce and mix.",
+            "Cook the pasta according to the package instructions. Drain the pasta, reserving some pasta water. Toss the cooked pasta with the sausage and cheese sauce, and add pasta water if it's too thick."
+        ]
+    },
+    {
+        "name": "Honey Habanero Chicken and Rice",
+        "servings": 5,
+        "calories": 500.0,
+        "fat": {
+            "amount": 156.0,
+            "unit": "g"
+        },
+        "carbs": {
+            "amount": 546.0,
+            "unit": "g"
+        },
+        "protein": {
+            "amount": 396.0,
+            "unit": "g"
+        },
+        "ingredients": [
+            {
+                "name": "Boneless skinless chicken thighs",
+                "quantity": 32.0,
+                "unit": "oz"
+            },
+            {
+                "name": "Habanero hot sauce",
+                "quantity": 60.0,
+                "unit": "g"
+            },
+            {
+                "name": "Honey",
+                "quantity": 60.0,
+                "unit": "g"
+            },
+            {
+                "name": "Lime",
+                "quantity": 1.0,
+                "unit": "squeeze"
+            },
+            {
+                "name": "Light mayo",
+                "quantity": 40.0,
+                "unit": "g"
+            },
+            {
+                "name": "Salt",
+                "quantity": 1.0,
+                "unit": "pinch"
+            },
+            {
+                "name": "Basmati rice",
+                "quantity": 280.0,
+                "unit": "g"
+            },
+            {
+                "name": "Olive oil",
+                "quantity": 2.0,
+                "unit": "Tbsp"
+            },
+            {
+                "name": "Lime juice",
+                "quantity": 2.0,
+                "unit": "Tbsp"
+            },
+            {
+                "name": "Salt",
+                "quantity": 1.0,
+                "unit": "tsp"
+            },
+            {
+                "name": "Cilantro",
+                "quantity": 1.0,
+                "unit": "handful"
+            }
+        ],
+        "instructions": [
+            "Mix together habanero hot sauce, honey, lime juice, mayo, and a pinch of salt to create coating for the chicken thighs. Cover chicken using 90% of the sauce and let marinate for at least 30 minutes, longer = better. Reserve leftover sauce to brush on chicken during cooking.",
+            "Place chicken in the air fryer at 375 for 12 minutes. Remove, brush with leftover sauce, then add back to the air fryer for 2-3 more minutes.",
+            "Rinse rice in a mesh strainer under cold water for 2 minutes, then combine with 420g of water and bring to a boil. Once boiling, reduce heat to low, cover, and let cook for 15 minutes. Remove from heat, keep covered, and let sit another 10 minutes to cook rice.",
+            "Once rice is done cooking, mix in olive oil, lime juice, salt, and a handful of finely chopped cilantro.",
+            "Seperate rice in 5 equal servings, top with chicken, and enjoy!"
+        ]
+    },
+    {
+        "name": "Honey BBQ Chicken Mac n Cheese",
+        "servings": 5,
+        "calories": 510.0,
+        "fat": {
+            "amount": 126.0,
+            "unit": "g"
+        },
+        "carbs": {
+            "amount": 596.0,
+            "unit": "g"
+        },
+        "protein": {
+            "amount": 43.0,
+            "unit": "g"
+        },
+        "ingredients": [
+            {
+                "name": "Boneless skinless chicken thighs",
+                "quantity": 18.0,
+                "unit": "oz"
+            },
+            {
+                "name": "BBQ dry rub of choice",
+                "quantity": 0.0,
+                "unit": "-"
+            },
+            {
+                "name": "Cottage cheese",
+                "quantity": 300.0,
+                "unit": "g"
+            },
+            {
+                "name": "Cheddar cheese",
+                "quantity": 120.0,
+                "unit": "g"
+            },
+            {
+                "name": "Cheddar powder",
+                "quantity": 25.0,
+                "unit": "g"
+            },
+            {
+                "name": "BBQ sauce",
+                "quantity": 60.0,
+                "unit": "g"
+            },
+            {
+                "name": "Nutritional yeast",
+                "quantity": 3.0,
+                "unit": "g"
+            },
+            {
+                "name": "Pasta water",
+                "quantity": 1.0,
+                "unit": "cup"
+            },
+            {
+                "name": "Pasta",
+                "quantity": 325.0,
+                "unit": "g"
+            },
+            {
+                "name": "Garlic, onion, pepper, and salt",
+                "quantity": 0.0,
+                "unit": "to taste"
+            }
+        ],
+        "instructions": [
+            "Season your chicken thighs generously with any BBQ dry rub of choice - I use the Salt Lick brand, but any works. Let marinate for 45-60 minutes.",
+            "Place chicken in the air fryer at 400 degrees for 12 minutes. Chop into cubes once done.",
+            "Cook pasta according to the instructions on the box, reserve 1/3 cup of pasta water, and mix your sauce with the pasta until completely coated.",
+            "Combine cottage cheese, cheddar cheese, cheddar powder, BBQ sauce, nutritional yeast, 1/3 cup of pasta water, and a pinch of garlic powder, onion powder, pepper and salt. Blend until completely smooth. Pour over your cooked pasta and mix to combine.",
+            "Mix in your BBQ chicken, and enjoy!"
+        ]
+    },
+    {
+        "name": "Korean Beef & Cheesy Gochujang Pasta",
+        "servings": 5,
+        "calories": 515.0,
+        "fat": {
+            "amount": 136.0,
+            "unit": "g"
+        },
+        "carbs": {
+            "amount": 626.0,
+            "unit": "g"
+        },
+        "protein": {
+            "amount": 386.0,
+            "unit": "g"
+        },
+        "ingredients": [
+            {
+                "name": "Ground Beef",
+                "quantity": 16.0,
+                "unit": "oz"
+            },
+            {
+                "name": "Sesame Oil",
+                "quantity": 2.0,
+                "unit": "tsp"
+            },
+            {
+                "name": "Brown Sugar",
+                "quantity": 20.0,
+                "unit": "g"
+            },
+            {
+                "name": "Soy Sauce",
+                "quantity": 60.0,
+                "unit": "g"
+            },
+            {
+                "name": "Gochujang",
+                "quantity": 10.0,
+                "unit": "g"
+            },
+            {
+                "name": "Green Onions",
+                "quantity": 2.0,
+                "unit": "units"
+            },
+            {
+                "name": "Garlic",
+                "quantity": 1.0,
+                "unit": "Tbsp"
+            },
+            {
+                "name": "Protein Penne Pasta",
+                "quantity": 375.0,
+                "unit": "g"
+            },
+            {
+                "name": "Cheddar Cheese",
+                "quantity": 75.0,
+                "unit": "g"
+            },
+            {
+                "name": "Cream Cheese",
+                "quantity": 50.0,
+                "unit": "g"
+            },
+            {
+                "name": "Nutritional Yeast",
+                "quantity": 10.0,
+                "unit": "g"
+            },
+            {
+                "name": "Milk",
+                "quantity": 200.0,
+                "unit": "ml"
+            }
+        ],
+        "instructions": [
+            "In a bowl, combine sesame oil, brown sugar, soy sauce and gochujang.",
+            "In a large pan, add 1 Tbsp of minced garlic and cook until fragrant. Add 96% lean beef to the pan and cook until it's about 50% done. Pour the marinade over the beef and continue to cook, simmering until it's cooked through. Stir in finely chopped green onions and mix well.",
+            "In a blender, combine low-fat cheddar, cream cheese, nutritional yeast, gochujang, milk and salt and blend until completely smooth.",
+            "Cook the pasta according to the package instructions. Drain the pasta, reserving some pasta water. Toss the cooked pasta with the prepared cheese sauce, simmer over low heat until thickened and add pasta water if needed. Finally, top the pasta with the Korean beef and enjoy!"
+        ]
+    },
+    {
+        "name": "Creamy Roasted Red Pepper Pasta",
+        "servings": 5,
+        "calories": 500.0,
+        "fat": {
+            "amount": 116.0,
+            "unit": "g"
+        },
+        "carbs": {
+            "amount": 636.0,
+            "unit": "g"
+        },
+        "protein": {
+            "amount": 40.0,
+            "unit": "g"
+        },
+        "ingredients": [
+            {
+                "name": "Boneless skinless chicken thighs",
+                "quantity": 18.0,
+                "unit": "oz"
+            },
+            {
+                "name": "Onion",
+                "quantity": 1.0,
+                "unit": "tsp"
+            },
+            {
+                "name": "Garlic",
+                "quantity": 1.5,
+                "unit": "tsp"
+            },
+            {
+                "name": "Salt",
+                "quantity": 1.5,
+                "unit": "tsp"
+            },
+            {
+                "name": "Paprika",
+                "quantity": 1.5,
+                "unit": "tsp"
+            },
+            {
+                "name": "Cottage cheese",
+                "quantity": 100.0,
+                "unit": "g"
+            },
+            {
+                "name": "1% Milk",
+                "quantity": 150.0,
+                "unit": "ml"
+            },
+            {
+                "name": "Roasted red peppers",
+                "quantity": 120.0,
+                "unit": "g"
+            },
+            {
+                "name": "Parmesan",
+                "quantity": 80.0,
+                "unit": "g"
+            },
+            {
+                "name": "Pasta",
+                "quantity": 329.0,
+                "unit": "g"
+            }
+        ],
+        "instructions": [
+            "In a blender, combine low-fat cottage cheese, milk, roasted red peppers, fresh Parmigiana Reggiano, and salt/pepper/garlic powder to taste. Blend until completely smooth.",
+            "Season your chicken thighs evenly with the seasoning blend, marinate for 30 minutes, then pan fry over medium high heat until cooked through.",
+            "Remove chicken from the pan and remove pan from heat, then pour over your cheese sauce, making sure to mix thoroughly and pick up any flavor left behind by the chicken.",
+            "Cook the pasta according to the package instructions. Drain the pasta, reserving some pasta water. Toss the cooked pasta with the cheese sauce until combined.",
+            "Dice your chicken then mix with your pasta, and enjoy!"
+        ]
+    },
+    {
+        "name": "Creamy Southwestern Chicken & Rice",
+        "servings": 5,
+        "calories": 505.0,
+        "fat": {
+            "amount": 136.0,
+            "unit": "g"
+        },
+        "carbs": {
+            "amount": 586.0,
+            "unit": "g"
+        },
+        "protein": {
+            "amount": 416.0,
+            "unit": "g"
+        },
+        "ingredients": [
+            {
+                "name": "Boneless skinless chicken thighs",
+                "quantity": 28.0,
+                "unit": "oz"
+            },
+            {
+                "name": "Salt, garlic, onion, smoked paprika, chili powder",
+                "quantity": 0.0,
+                "unit": "variable"
+            },
+            {
+                "name": "Mexican crema",
+                "quantity": 80.0,
+                "unit": "ml"
+            },
+            {
+                "name": "Greek yogurt",
+                "quantity": 60.0,
+                "unit": "g"
+            },
+            {
+                "name": "1% milk",
+                "quantity": 35.0,
+                "unit": "g"
+            },
+            {
+                "name": "Honey",
+                "quantity": 5.0,
+                "unit": "g"
+            },
+            {
+                "name": "Salt",
+                "quantity": 1.0,
+                "unit": "pinch"
+            },
+            {
+                "name": "Diced chipotle peppers in adobo",
+                "quantity": 2.0,
+                "unit": "tsp"
+            },
+            {
+                "name": "Lime juice",
+                "quantity": 0.25,
+                "unit": "cup"
+            },
+            {
+                "name": "Basmati rice",
+                "quantity": 280.0,
+                "unit": "g"
+            },
+            {
+                "name": "Amy's southwestern vegetable soup",
+                "quantity": 2.0,
+                "unit": "cans"
+            },
+            {
+                "name": "Chicken bone broth",
+                "quantity": 240.0,
+                "unit": "ml"
+            },
+            {
+                "name": "Soy sauce",
+                "quantity": 1.0,
+                "unit": "Tbsp"
+            },
+            {
+                "name": "Cilantro",
+                "quantity": 0.0,
+                "unit": "garnish"
+            }
+        ],
+        "instructions": [
+            "Season chicken thighs (even amounts of each seasoning, if you prefer to measure, mix each seasoning in a small bowl in bulk then use enough to completely cover each side of the chicken) and add to air fryer at 375 for 12 minutes and chop into small pieces when fully cooked.",
+            "Rinse rice in a mesh strainer under cold water for 2 minutes, then combine with 2 cans of veggie soup, bone broth, soy sauce and any other seasonings of choice, and bring to a boil. Once boiling, reduce heat to low, cover, and let cook for 15 minutes. Remove from heat, keep covered, and let sit another 10 minutes to cook rice.",
+            "Combine sauce ingredients in a blender and blend until completely smooth.",
+            "Separate rice into 5 equal servings, top with sliced chicken, and pour over your chipotle sauce, garnish with chopped cilantro and enjoy!"
+        ]
+    },
+    {
+        "name": "Spicy Taco Bowls",
+        "servings": 5,
+        "calories": 515.0,
+        "fat": {
+            "amount": 146.0,
+            "unit": "g"
+        },
+        "carbs": {
+            "amount": 536.0,
+            "unit": "g"
+        },
+        "protein": {
+            "amount": 44.0,
+            "unit": "g"
+        },
+        "ingredients": [
+            {
+                "name": "93% Beef",
+                "quantity": 280.0,
+                "unit": "oz"
+            },
+            {
+                "name": "Diced Onions",
+                "quantity": 2.0,
+                "unit": "pieces"
+            },
+            {
+                "name": "Taco Seasoning",
+                "quantity": 2.0,
+                "unit": "packets"
+            },
+            {
+                "name": "Basmati Rice",
+                "quantity": 320.0,
+                "unit": "g"
+            },
+            {
+                "name": "Butter",
+                "quantity": 15.0,
+                "unit": "g"
+            },
+            {
+                "name": "Greek Yogurt",
+                "quantity": 300.0,
+                "unit": "g"
+            },
+            {
+                "name": "Jalape\u00f1o",
+                "quantity": 75.0,
+                "unit": "g"
+            },
+            {
+                "name": "Honey",
+                "quantity": 10.0,
+                "unit": "g"
+            },
+            {
+                "name": "Cilantro",
+                "quantity": 1.0,
+                "unit": "handful"
+            },
+            {
+                "name": "Salt",
+                "quantity": 0.0,
+                "unit": "to taste"
+            },
+            {
+                "name": "Pepper",
+                "quantity": 0.0,
+                "unit": "to taste"
+            },
+            {
+                "name": "Garlic",
+                "quantity": 0.0,
+                "unit": "to taste"
+            },
+            {
+                "name": "Onion",
+                "quantity": 0.0,
+                "unit": "to taste"
+            },
+            {
+                "name": "Pico de Gallo",
+                "quantity": 0.0,
+                "unit": "garnish"
+            }
+        ],
+        "instructions": [
+            "Rinse rice in a mesh strainer under cold water for 2 minutes, then combine with 480g of water and butter and bring to a boil. Once boiling, reduce heat to low, cover, and let cook for 15 minutes. Remove from heat, keep covered, and let sit another 10 minutes to cook rice.",
+            "Add two diced onions to a pan over medium heat, cook until translucent. Remove from pan, and cook beef until brown and cooked through. Add in taco seasoning packets and onions and mix to combine. (add a splash of water if needed)",
+            "Combine sauce ingredients in a blender and blend until completely smooth.",
+            "Mix rice with your beef mixture, mix in your sauce, garnish with more cilantro and Pico, and enjoy!"
+        ]
+    },
+    {
+        "name": "Creamy Chipotle Chicken Pasta",
+        "servings": 8,
+        "calories": 495.0,
+        "fat": {
+            "amount": 146.0,
+            "unit": "g"
+        },
+        "carbs": {
+            "amount": 566.0,
+            "unit": "g"
+        },
+        "protein": {
+            "amount": 44.0,
+            "unit": "g"
+        },
+        "ingredients": [
+            {
+                "name": "Chicken thighs",
+                "quantity": 32.0,
+                "unit": "oz"
+            },
+            {
+                "name": "Olive oil",
+                "quantity": 1.0,
+                "unit": "Tbsp"
+            },
+            {
+                "name": "Minced garlic",
+                "quantity": 6.0,
+                "unit": "cloves"
+            },
+            {
+                "name": "Salt",
+                "quantity": 1.0,
+                "unit": "tsp"
+            },
+            {
+                "name": "Cumin",
+                "quantity": 2.0,
+                "unit": "Tbsp"
+            },
+            {
+                "name": "Smoked paprika",
+                "quantity": 2.0,
+                "unit": "Tbsp"
+            },
+            {
+                "name": "Chili powder",
+                "quantity": 2.0,
+                "unit": "Tbsp"
+            },
+            {
+                "name": "Adobo sauce",
+                "quantity": 4.0,
+                "unit": "Tbsp"
+            },
+            {
+                "name": "Chipotle peppers",
+                "quantity": 2.0,
+                "unit": ""
+            },
+            {
+                "name": "Honey",
+                "quantity": 2.0,
+                "unit": "Tbsp"
+            },
+            {
+                "name": "Juice of limes",
+                "quantity": 2.0,
+                "unit": ""
+            },
+            {
+                "name": "White onion",
+                "quantity": 1.0,
+                "unit": ""
+            },
+            {
+                "name": "Chipotle peppers",
+                "quantity": 4.0,
+                "unit": ""
+            },
+            {
+                "name": "Greek yogurt",
+                "quantity": 200.0,
+                "unit": "g"
+            },
+            {
+                "name": "Light mayo",
+                "quantity": 60.0,
+                "unit": "g"
+            },
+            {
+                "name": "Adobo sauce",
+                "quantity": 4.0,
+                "unit": "Tbsp"
+            },
+            {
+                "name": "Smoked paprika",
+                "quantity": 2.0,
+                "unit": "tsp"
+            },
+            {
+                "name": "Garlic powder",
+                "quantity": 2.0,
+                "unit": "tsp"
+            },
+            {
+                "name": "Milk",
+                "quantity": 0.75,
+                "unit": "cup"
+            },
+            {
+                "name": "Fresh cilantro",
+                "quantity": 0.0,
+                "unit": ""
+            },
+            {
+                "name": "Pasta (Banza or pasta of choice)",
+                "quantity": 24.0,
+                "unit": "oz"
+            }
+        ],
+        "instructions": [
+            "Marinate boneless skinless chicken thighs in olive oil, minced garlic, salt, cumin, smoked paprika, chili powder, adobo sauce, minced chipotle peppers honey and the juice of two limes. Let sit for at least 30-60 minutes.",
+            "Start cooking chicken over medium high heat - once 50% cooked, add in your onions and cook until onions are soft and the chicken is cooked through.",
+            "Cook pasta according to packaging instructions - and mix all the ingredients for the chipotle sauce in a blender and blend until smooth.",
+            "Combine chicken, pasta, and chipotle cream sauce in a pot, mix, then split in to 8 even servings and enjoy!"
+        ]
+    },
+    {
+        "name": "Creamy Fajita Chicken Orzo",
+        "servings": 6,
+        "calories": 500.0,
+        "fat": {
+            "amount": 116.0,
+            "unit": "g"
+        },
+        "carbs": {
+            "amount": 586.0,
+            "unit": "g"
+        },
+        "protein": {
+            "amount": 48.0,
+            "unit": "g"
+        },
+        "ingredients": [
+            {
+                "name": "Chicken Breast",
+                "quantity": 32.0,
+                "unit": "oz"
+            },
+            {
+                "name": "Cilantro",
+                "quantity": 1.0,
+                "unit": "handful"
+            },
+            {
+                "name": "Lime Juice",
+                "quantity": 2.0,
+                "unit": "Tbsp"
+            },
+            {
+                "name": "Honey",
+                "quantity": 1.5,
+                "unit": "Tbsp"
+            },
+            {
+                "name": "Olive Oil",
+                "quantity": 1.0,
+                "unit": "Tbsp"
+            },
+            {
+                "name": "Garlic",
+                "quantity": 1.0,
+                "unit": "Tbsp"
+            },
+            {
+                "name": "Chili Powder",
+                "quantity": 1.0,
+                "unit": "tsp"
+            },
+            {
+                "name": "Paprika",
+                "quantity": 1.0,
+                "unit": "tsp"
+            },
+            {
+                "name": "Cumin",
+                "quantity": 2.0,
+                "unit": "tsp"
+            },
+            {
+                "name": "Kosher Salt",
+                "quantity": 2.0,
+                "unit": "tsp"
+            },
+            {
+                "name": "Black Pepper",
+                "quantity": 0.5,
+                "unit": "tsp"
+            },
+            {
+                "name": "Water",
+                "quantity": 1.0,
+                "unit": "cup"
+            },
+            {
+                "name": "Greek Yogurt",
+                "quantity": 220.0,
+                "unit": "g"
+            },
+            {
+                "name": "Chipotle Hot Sauce",
+                "quantity": 1.0,
+                "unit": "Tbsp"
+            },
+            {
+                "name": "Mozzarella",
+                "quantity": 100.0,
+                "unit": "g"
+            },
+            {
+                "name": "Bell Peppers",
+                "quantity": 4.0,
+                "unit": "pieces"
+            },
+            {
+                "name": "Sweet Onion",
+                "quantity": 1.0,
+                "unit": "piece"
+            },
+            {
+                "name": "Orzo Pasta",
+                "quantity": 380.0,
+                "unit": "g"
+            }
+        ],
+        "instructions": [
+            "Marinate thin sliced chicken breast in cilantro, lime juice, honey, olive oil, garlic, chili powder, paprika, cumin, salt, black pepper, and water. Marinate at least 30 minutes.",
+            "Chop 4 bell peppers (any color), 1 sweet onion, add a generous amount of salt and add to the oven at 450 degrees for 40 minutes, mixing 2-3 times.",
+            "Once veggies are nearly done, add your chicken to the air fryer at 375 for 9 minutes (work in two batches if needed). Once done, chop in to small pieces.",
+            "Mix chopped chicken, pepper/onion mix, greek yogurt, chipotle hot sauce and mozzarella in a large bowl and mix.",
+            "Cook orzo according to packaging instructions. Reserve ~1/3 cup of pasta water in case it is needed. Mix orzo with creamy fajita chicken mix - add pasta water if needed to thin out the sauce. Enjoy!"
+        ]
+    },
+    {
+        "name": "Teriyaki Chicken Fried Rice",
+        "servings": 5,
+        "calories": 515.0,
+        "fat": {
+            "amount": 146.0,
+            "unit": "g"
+        },
+        "carbs": {
+            "amount": 576.0,
+            "unit": "g"
+        },
+        "protein": {
+            "amount": 40.0,
+            "unit": "g"
+        },
+        "ingredients": [
+            {
+                "name": "Finely minced garlic cloves",
+                "quantity": 3.0,
+                "unit": "cloves"
+            },
+            {
+                "name": "Soy sauce",
+                "quantity": 4.0,
+                "unit": "Tbsp"
+            },
+            {
+                "name": "Zero-cal brown sugar",
+                "quantity": 2.0,
+                "unit": "Tbsp"
+            },
+            {
+                "name": "Mirin",
+                "quantity": 4.0,
+                "unit": "Tbsp"
+            },
+            {
+                "name": "Cornstarch",
+                "quantity": 1.0,
+                "unit": "Tbsp"
+            },
+            {
+                "name": "Optional: minced ginger",
+                "quantity": 0.0,
+                "unit": ""
+            },
+            {
+                "name": "Dry rice",
+                "quantity": 300.0,
+                "unit": "g"
+            },
+            {
+                "name": "Mixed frozen veggies",
+                "quantity": 300.0,
+                "unit": "g"
+            },
+            {
+                "name": "Egg whites",
+                "quantity": 200.0,
+                "unit": "g"
+            },
+            {
+                "name": "Eggs",
+                "quantity": 2.0,
+                "unit": ""
+            },
+            {
+                "name": "Boneless skinless chicken thighs",
+                "quantity": 25.0,
+                "unit": "oz"
+            },
+            {
+                "name": "Teriyaki sauce",
+                "quantity": 2.0,
+                "unit": "Tbsp"
+            },
+            {
+                "name": "Fish sauce",
+                "quantity": 1.0,
+                "unit": "tsp"
+            },
+            {
+                "name": "Avocado oil",
+                "quantity": 1.0,
+                "unit": "Tbsp"
+            }
+        ],
+        "instructions": [
+            "In a pan, combine 3 minced garlic cloves, 4 tbsp soy sauce, 2 tbsp zero-cal brown sugar, 4 tbsp mirin. Optionally, add minced ginger. Simmer 3-4 min until thickened. Add cornstarch slurry (1 tbsp cornstarch, 2 tbsp cold water), stir until thick, set aside.",
+            "In a bowl, combine 25 oz chicken thighs, 2 tbsp teriyaki sauce, 1 tsp fish sauce, 1 tbsp avocado oil. Marinate 1 hr or overnight.",
+            "Heat skillet high. Cook chicken until browned on both sides. Glaze with remaining teriyaki sauce, cook until caramelized and fully cooked. Set aside.",
+            "In same skillet, cook 300g mixed frozen veggies until tender. Push veggies aside, scramble 2 eggs, 200g egg whites on other side. Mix together, add 700g cooked rice, mix well. Drizzle 4 tsp sesame oil, 2 tbsp soy sauce, stir until combined.",
+            "Slice chicken, place on fried rice. Divide into 5 servings."
+        ]
+    },
+    {
+        "name": "Creamy Cajun Chicken & Rice",
+        "servings": 5,
+        "calories": 500.0,
+        "fat": {
+            "amount": 9.0,
+            "unit": "g"
+        },
+        "carbs": {
+            "amount": 596.0,
+            "unit": "g"
+        },
+        "protein": {
+            "amount": 436.0,
+            "unit": "g"
+        },
+        "ingredients": [
+            {
+                "name": "Cajun Chicken",
+                "quantity": 24.0,
+                "unit": "oz"
+            },
+            {
+                "name": "Juice of 1 lemon",
+                "quantity": 1.0,
+                "unit": "lemon"
+            },
+            {
+                "name": "Olive oil",
+                "quantity": 1.0,
+                "unit": "Tbsp"
+            },
+            {
+                "name": "Cajun seasoning",
+                "quantity": 1.0,
+                "unit": "Tbsp"
+            },
+            {
+                "name": "Coarse salt",
+                "quantity": 2.0,
+                "unit": "tsp"
+            },
+            {
+                "name": "Butter",
+                "quantity": 1.0,
+                "unit": "Tbsp"
+            },
+            {
+                "name": "Basmati rice",
+                "quantity": 320.0,
+                "unit": "g"
+            },
+            {
+                "name": "Water",
+                "quantity": 580.0,
+                "unit": "ml"
+            },
+            {
+                "name": "Chicken bouillon",
+                "quantity": 2.0,
+                "unit": "tsp"
+            },
+            {
+                "name": "Onion",
+                "quantity": 1.0,
+                "unit": "whole"
+            },
+            {
+                "name": "Red bell pepper",
+                "quantity": 1.0,
+                "unit": "whole"
+            },
+            {
+                "name": "Minced garlic",
+                "quantity": 6.0,
+                "unit": "cloves"
+            },
+            {
+                "name": "Evaporated milk",
+                "quantity": 180.0,
+                "unit": "g"
+            },
+            {
+                "name": "Light cream cheese",
+                "quantity": 40.0,
+                "unit": "g"
+            },
+            {
+                "name": "Mozzarella",
+                "quantity": 30.0,
+                "unit": "g"
+            }
+        ],
+        "instructions": [
+            "Combine 24oz chicken breast, juice of 1 lemon, 1 tbsp olive oil, 1 tbsp Cajun seasoning, 2 tsp coarse salt in a bowl. Mix to coat chicken, marinate while prepping other ingredients.",
+            "Melt 1 tbsp butter in a skillet over medium heat. Add 1 diced onion, 1 diced red bell pepper, 6 minced garlic cloves. Saut\u00e9 10-15 min until softened. Stir in 320g basmati rice, 2 tsp chicken bouillon. Add 580ml water, bring to a boil. Cover, reduce heat, cook 20 min. Remove from heat, let sit 10 min.",
+            "Sear chicken in a hot pan until cooked, flipping to ensure even cooking. Deglaze with juice of 1/2 lemon, set aside.",
+            "In a blender, combine 180g fat-free evaporated milk, 40g light cream cheese, 30g fat-free mozzarella, juice of 1/2 lemon, 1 tbsp Cajun seasoning. Blend until smooth, season with salt.",
+            "Divide cooked rice and veggies into 5 servings, top with chicken, pour over Cajun sauce. Garnish with chives."
+        ]
+    }
+]
