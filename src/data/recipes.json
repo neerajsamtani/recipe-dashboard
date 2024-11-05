@@ -4,15 +4,15 @@
         "servings": 5,
         "calories": 500.0,
         "fat": {
-            "amount": 176.0,
+            "amount": 17.0,
             "unit": "g"
         },
         "carbs": {
-            "amount": 476.0,
+            "amount": 47.0,
             "unit": "g"
         },
         "protein": {
-            "amount": 416.0,
+            "amount": 41.0,
             "unit": "g"
         },
         "ingredients": [
@@ -85,11 +85,11 @@
         "servings": 5,
         "calories": 505.0,
         "fat": {
-            "amount": 156.0,
+            "amount": 15.0,
             "unit": "g"
         },
         "carbs": {
-            "amount": 526.0,
+            "amount": 52.0,
             "unit": "g"
         },
         "protein": {
@@ -186,15 +186,15 @@
         "servings": 6,
         "calories": 510.0,
         "fat": {
-            "amount": 136.0,
+            "amount": 13.0,
             "unit": "g"
         },
         "carbs": {
-            "amount": 586.0,
+            "amount": 58.0,
             "unit": "g"
         },
         "protein": {
-            "amount": 426.0,
+            "amount": 42.0,
             "unit": "g"
         },
         "ingredients": [
@@ -263,11 +263,11 @@
         "servings": 5,
         "calories": 510.0,
         "fat": {
-            "amount": 136.0,
+            "amount": 13.0,
             "unit": "g"
         },
         "carbs": {
-            "amount": 606.0,
+            "amount": 60.0,
             "unit": "g"
         },
         "protein": {
@@ -481,15 +481,15 @@
         "servings": 5,
         "calories": 505.0,
         "fat": {
-            "amount": 136.0,
+            "amount": 13.0,
             "unit": "g"
         },
         "carbs": {
-            "amount": 546.0,
+            "amount": 54.0,
             "unit": "g"
         },
         "protein": {
-            "amount": 456.0,
+            "amount": 45.0,
             "unit": "g"
         },
         "ingredients": [
@@ -587,11 +587,11 @@
             "unit": "g"
         },
         "carbs": {
-            "amount": 496.0,
+            "amount": 49.0,
             "unit": "g"
         },
         "protein": {
-            "amount": 426.0,
+            "amount": 42.0,
             "unit": "g"
         },
         "ingredients": [
@@ -755,11 +755,11 @@
         "servings": 5,
         "calories": 495.0,
         "fat": {
-            "amount": 156.0,
+            "amount": 15.0,
             "unit": "g"
         },
         "carbs": {
-            "amount": 526.0,
+            "amount": 52.0,
             "unit": "g"
         },
         "protein": {
@@ -841,11 +841,11 @@
         "servings": 5,
         "calories": 510.0,
         "fat": {
-            "amount": 136.0,
+            "amount": 13.0,
             "unit": "g"
         },
         "carbs": {
-            "amount": 586.0,
+            "amount": 58.0,
             "unit": "g"
         },
         "protein": {
@@ -917,11 +917,11 @@
             "unit": "g"
         },
         "carbs": {
-            "amount": 626.0,
+            "amount": 62.0,
             "unit": "g"
         },
         "protein": {
-            "amount": 516.0,
+            "amount": 51.0,
             "unit": "g"
         },
         "ingredients": [
@@ -1029,11 +1029,11 @@
             "unit": "g"
         },
         "carbs": {
-            "amount": 426.0,
+            "amount": 42.0,
             "unit": "g"
         },
         "protein": {
-            "amount": 416.0,
+            "amount": 41.0,
             "unit": "g"
         },
         "ingredients": [
@@ -1190,7 +1190,7 @@
             "unit": "g"
         },
         "carbs": {
-            "amount": 626.0,
+            "amount": 62.0,
             "unit": "g"
         },
         "protein": {
@@ -1288,15 +1288,15 @@
         "servings": 5,
         "calories": 495.0,
         "fat": {
-            "amount": 136.0,
+            "amount": 13.0,
             "unit": "g"
         },
         "carbs": {
-            "amount": 596.0,
+            "amount": 59.0,
             "unit": "g"
         },
         "protein": {
-            "amount": 376.0,
+            "amount": 37.0,
             "unit": "g"
         },
         "ingredients": [
@@ -1628,11 +1628,11 @@
         "servings": 5,
         "calories": 510.0,
         "fat": {
-            "amount": 126.0,
+            "amount": 12.0,
             "unit": "g"
         },
         "carbs": {
-            "amount": 606.0,
+            "amount": 60.0,
             "unit": "g"
         },
         "protein": {
@@ -1708,7 +1708,7 @@
             "unit": "g"
         },
         "carbs": {
-            "amount": 656.0,
+            "amount": 65.0,
             "unit": "g"
         },
         "protein": {
@@ -1774,7 +1774,7 @@
             "unit": "g"
         },
         "carbs": {
-            "amount": 426.0,
+            "amount": 42.0,
             "unit": "g"
         },
         "protein": {
@@ -1854,7 +1854,7 @@
             "unit": "g"
         },
         "carbs": {
-            "amount": 636.0,
+            "amount": 63.0,
             "unit": "g"
         },
         "protein": {
@@ -1971,15 +1971,15 @@
         "servings": 5,
         "calories": 505.0,
         "fat": {
-            "amount": 146.0,
+            "amount": 14.0,
             "unit": "g"
         },
         "carbs": {
-            "amount": 596.0,
+            "amount": 59.0,
             "unit": "g"
         },
         "protein": {
-            "amount": 396.0,
+            "amount": 39.0,
             "unit": "g"
         },
         "ingredients": [
@@ -2181,7 +2181,7 @@
             "unit": "g"
         },
         "carbs": {
-            "amount": 596.0,
+            "amount": 59.0,
             "unit": "g"
         },
         "protein": {
@@ -2377,11 +2377,11 @@
             "unit": "g"
         },
         "carbs": {
-            "amount": 546.0,
+            "amount": 54.0,
             "unit": "g"
         },
         "protein": {
-            "amount": 516.0,
+            "amount": 51.0,
             "unit": "g"
         },
         "ingredients": [
@@ -2564,11 +2564,11 @@
         "servings": 5,
         "calories": 495.0,
         "fat": {
-            "amount": 136.0,
+            "amount": 13.0,
             "unit": "g"
         },
         "carbs": {
-            "amount": 536.0,
+            "amount": 53.0,
             "unit": "g"
         },
         "protein": {
@@ -2792,11 +2792,11 @@
         "servings": 5,
         "calories": 510.0,
         "fat": {
-            "amount": 126.0,
+            "amount": 12.0,
             "unit": "g"
         },
         "carbs": {
-            "amount": 656.0,
+            "amount": 65.0,
             "unit": "g"
         },
         "protein": {
@@ -2903,15 +2903,15 @@
         "servings": 7,
         "calories": 515.0,
         "fat": {
-            "amount": 136.0,
+            "amount": 13.0,
             "unit": "g"
         },
         "carbs": {
-            "amount": 476.0,
+            "amount": 47.0,
             "unit": "g"
         },
         "protein": {
-            "amount": 526.0,
+            "amount": 52.0,
             "unit": "g"
         },
         "ingredients": [
@@ -3045,11 +3045,11 @@
         "servings": 5,
         "calories": 515.0,
         "fat": {
-            "amount": 186.0,
+            "amount": 18.0,
             "unit": "g"
         },
         "carbs": {
-            "amount": 456.0,
+            "amount": 45.0,
             "unit": "g"
         },
         "protein": {
@@ -3137,15 +3137,15 @@
         "servings": 6,
         "calories": 510.0,
         "fat": {
-            "amount": 136.0,
+            "amount": 13.0,
             "unit": "g"
         },
         "carbs": {
-            "amount": 596.0,
+            "amount": 59.0,
             "unit": "g"
         },
         "protein": {
-            "amount": 416.0,
+            "amount": 41.0,
             "unit": "g"
         },
         "ingredients": [
@@ -3233,15 +3233,15 @@
         "servings": 5,
         "calories": 500.0,
         "fat": {
-            "amount": 136.0,
+            "amount": 13.0,
             "unit": "g"
         },
         "carbs": {
-            "amount": 566.0,
+            "amount": 56.0,
             "unit": "g"
         },
         "protein": {
-            "amount": 396.0,
+            "amount": 39.0,
             "unit": "g"
         },
         "ingredients": [
@@ -3353,11 +3353,11 @@
             "unit": "g"
         },
         "carbs": {
-            "amount": 686.0,
+            "amount": 68.0,
             "unit": "g"
         },
         "protein": {
-            "amount": 396.0,
+            "amount": 39.0,
             "unit": "g"
         },
         "ingredients": [
@@ -3532,11 +3532,11 @@
             "unit": "g"
         },
         "carbs": {
-            "amount": 376.0,
+            "amount": 37.0,
             "unit": "g"
         },
         "protein": {
-            "amount": 516.0,
+            "amount": 51.0,
             "unit": "g"
         },
         "ingredients": [
@@ -3794,15 +3794,15 @@
         "servings": 5,
         "calories": 500.0,
         "fat": {
-            "amount": 156.0,
+            "amount": 15.0,
             "unit": "g"
         },
         "carbs": {
-            "amount": 546.0,
+            "amount": 54.0,
             "unit": "g"
         },
         "protein": {
-            "amount": 396.0,
+            "amount": 39.0,
             "unit": "g"
         },
         "ingredients": [
@@ -3875,11 +3875,11 @@
         "servings": 5,
         "calories": 510.0,
         "fat": {
-            "amount": 126.0,
+            "amount": 12.0,
             "unit": "g"
         },
         "carbs": {
-            "amount": 596.0,
+            "amount": 59.0,
             "unit": "g"
         },
         "protein": {
@@ -3951,15 +3951,15 @@
         "servings": 5,
         "calories": 515.0,
         "fat": {
-            "amount": 136.0,
+            "amount": 13.0,
             "unit": "g"
         },
         "carbs": {
-            "amount": 626.0,
+            "amount": 62.0,
             "unit": "g"
         },
         "protein": {
-            "amount": 386.0,
+            "amount": 38.0,
             "unit": "g"
         },
         "ingredients": [
@@ -4036,11 +4036,11 @@
         "servings": 5,
         "calories": 500.0,
         "fat": {
-            "amount": 116.0,
+            "amount": 11.0,
             "unit": "g"
         },
         "carbs": {
-            "amount": 636.0,
+            "amount": 63.0,
             "unit": "g"
         },
         "protein": {
@@ -4112,15 +4112,15 @@
         "servings": 5,
         "calories": 505.0,
         "fat": {
-            "amount": 136.0,
+            "amount": 13.0,
             "unit": "g"
         },
         "carbs": {
-            "amount": 586.0,
+            "amount": 58.0,
             "unit": "g"
         },
         "protein": {
-            "amount": 416.0,
+            "amount": 41.0,
             "unit": "g"
         },
         "ingredients": [
@@ -4207,11 +4207,11 @@
         "servings": 5,
         "calories": 515.0,
         "fat": {
-            "amount": 146.0,
+            "amount": 14.0,
             "unit": "g"
         },
         "carbs": {
-            "amount": 536.0,
+            "amount": 53.0,
             "unit": "g"
         },
         "protein": {
@@ -4302,11 +4302,11 @@
         "servings": 8,
         "calories": 495.0,
         "fat": {
-            "amount": 146.0,
+            "amount": 14.0,
             "unit": "g"
         },
         "carbs": {
-            "amount": 566.0,
+            "amount": 56.0,
             "unit": "g"
         },
         "protein": {
@@ -4432,11 +4432,11 @@
         "servings": 6,
         "calories": 500.0,
         "fat": {
-            "amount": 116.0,
+            "amount": 11.0,
             "unit": "g"
         },
         "carbs": {
-            "amount": 586.0,
+            "amount": 58.0,
             "unit": "g"
         },
         "protein": {
@@ -4548,11 +4548,11 @@
         "servings": 5,
         "calories": 515.0,
         "fat": {
-            "amount": 146.0,
+            "amount": 14.0,
             "unit": "g"
         },
         "carbs": {
-            "amount": 576.0,
+            "amount": 57.0,
             "unit": "g"
         },
         "protein": {
@@ -4648,11 +4648,11 @@
             "unit": "g"
         },
         "carbs": {
-            "amount": 596.0,
+            "amount": 59.0,
             "unit": "g"
         },
         "protein": {
-            "amount": 436.0,
+            "amount": 43.0,
             "unit": "g"
         },
         "ingredients": [

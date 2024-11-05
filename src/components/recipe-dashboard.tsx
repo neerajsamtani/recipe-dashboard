@@ -92,6 +92,10 @@ export const RecipeDashboard = () => {
 
     const matchedRecipes = getRecipeMatches();
 
+    const clearAllIngredients = () => {
+        setIngredients([]);
+    };
+
     return (
         <div className="w-full max-w-4xl mx-auto space-y-6">
             <Card className="mt-6">
@@ -111,25 +115,34 @@ export const RecipeDashboard = () => {
                     </div>
 
                     {ingredients.length > 0 && (
-                        <div className="flex flex-wrap gap-2">
-                            {ingredients.map((ingredient, index) => (
-                                <Badge
-                                    key={index}
-                                    variant="secondary"
-                                    className="px-3 py-1 cursor-pointer hover:bg-secondary/80 flex items-center gap-1"
-                                    onClick={() => removeIngredient(ingredient)}
-                                >
-                                    {ingredient}
-                                    <X className="w-3 h-3" />
-                                </Badge>
-                            ))}
+                        <div className="flex justify-between items-center">
+                            <div className="flex flex-wrap gap-2">
+                                {ingredients.map((ingredient, index) => (
+                                    <Badge
+                                        key={index}
+                                        variant="secondary"
+                                        className="px-3 py-1 cursor-pointer hover:bg-secondary/80 flex items-center gap-1"
+                                        onClick={() => removeIngredient(ingredient)}
+                                    >
+                                        {ingredient}
+                                        <X className="w-3 h-3" />
+                                    </Badge>
+                                ))}
+                            </div>
+                            <Badge
+                                variant="outline"
+                                className="cursor-pointer hover:bg-secondary"
+                                onClick={clearAllIngredients}
+                            >
+                                Clear All
+                            </Badge>
                         </div>
                     )}
                 </CardContent>
             </Card>
 
             <div className="space-y-6">
-                {matchedRecipes.map((recipe) => (
+                {matchedRecipes.slice(0, 10).map((recipe) => (
                     <Card key={recipe.name}>
                         <CardHeader className="pb-3">
                             <div className="flex justify-between items-start">
