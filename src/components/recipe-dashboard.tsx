@@ -29,11 +29,20 @@ interface Recipe {
 
 interface RecipeWithMatch extends Recipe {
     missingCount: number;
+    matchedCount: number;
+    totalCount: number;
+    score: number;
     missingIngredients: string[];
 }
 
 export const RecipeDashboard = () => {
     const [availableIngredients, setAvailableIngredients] = useState('');
+
+    const calculateScore = (matched: number, total: number): number => {
+        const missing = total - matched;
+        // Score = M / (T + e^X) where X is missing ingredients
+        return matched / (total + Math.exp(missing));
+    };
 
     const getRecipeMatches = (): RecipeWithMatch[] => {
         const ingredients = availableIngredients.toLowerCase().split(',').map(i => i.trim()).filter(i => i);
@@ -41,13 +50,20 @@ export const RecipeDashboard = () => {
         return recipes.map(recipe => {
             const recipeIngredients = recipe.ingredients.map(i => i.name.toLowerCase());
             const missingIngredients = recipeIngredients.filter(i => !ingredients.some(avail => i.includes(avail)));
+            const totalCount = recipeIngredients.length;
+            const missingCount = missingIngredients.length;
+            const matchedCount = totalCount - missingCount;
 
             return {
                 ...recipe,
-                missingCount: missingIngredients.length,
+                missingCount,
+                matchedCount,
+                totalCount,
+                score: calculateScore(matchedCount, totalCount),
                 missingIngredients
             };
-        }).sort((a, b) => a.missingCount - b.missingCount);
+        }).sort((a, b) => b.score - a.score)
+            .filter(recipe => recipe.score > 0); // Sort by score descending
     };
 
     const matchedRecipes = getRecipeMatches();
@@ -82,9 +98,14 @@ export const RecipeDashboard = () => {
                                         {recipe.servings} servings | {recipe.calories} calories
                                     </p>
                                 </div>
-                                <Badge variant={recipe.missingCount === 0 ? "default" : "secondary"}>
-                                    Missing: {recipe.missingCount} ingredients
-                                </Badge>
+                                <div className="text-right space-y-2">
+                                    <Badge variant={recipe.missingCount === 0 ? "default" : "secondary"}>
+                                        Score: {recipe.score.toFixed(3)}
+                                    </Badge>
+                                    <p className="text-sm text-muted-foreground">
+                                        {recipe.matchedCount}/{recipe.totalCount} ingredients matched
+                                    </p>
+                                </div>
                             </div>
                         </CardHeader>
                         <CardContent className="space-y-6">
