@@ -5,6 +5,7 @@ import { Badge } from '@/components/ui/badge';
 import { Separator } from '@/components/ui/separator';
 import { Search, X } from 'lucide-react';
 import recipes from '@/data/recipes.json';
+import { Dialog, DialogContent, DialogHeader, DialogTitle } from './ui/dialog';
 
 interface Ingredient {
     name: string;
@@ -25,6 +26,7 @@ interface Recipe {
     carbs: Nutrient;
     protein: Nutrient;
     ingredients: Ingredient[];
+    instructions: string[];
 }
 
 interface RecipeWithMatch extends Recipe {
@@ -38,6 +40,7 @@ interface RecipeWithMatch extends Recipe {
 export const RecipeDashboard = () => {
     const [currentInput, setCurrentInput] = useState('');
     const [ingredients, setIngredients] = useState<string[]>(['salt', 'pepper']);
+    const [selectedRecipe, setSelectedRecipe] = useState<RecipeWithMatch | null>(null);
 
     const handleKeyDown = (e: React.KeyboardEvent<HTMLInputElement>) => {
         if (e.key === 'Enter' && currentInput.trim()) {
@@ -96,6 +99,10 @@ export const RecipeDashboard = () => {
         setIngredients([]);
     };
 
+    const handleRecipeClick = (recipe: RecipeWithMatch) => {
+        setSelectedRecipe(recipe);
+    };
+
     return (
         <div className="w-full max-w-4xl mx-auto space-y-6">
             <Card className="mt-6">
@@ -143,7 +150,11 @@ export const RecipeDashboard = () => {
 
             <div className="space-y-6">
                 {matchedRecipes.slice(0, 10).map((recipe) => (
-                    <Card key={recipe.name}>
+                    <Card
+                        key={recipe.name}
+                        className="cursor-pointer hover:shadow-lg transition-shadow"
+                        onClick={() => handleRecipeClick(recipe)}
+                    >
                         <CardHeader className="pb-3">
                             <div className="flex justify-between items-start">
                                 <div className="space-y-1">
@@ -212,6 +223,84 @@ export const RecipeDashboard = () => {
                     </Card>
                 ))}
             </div>
+            {selectedRecipe && (
+                <Dialog open={!!selectedRecipe} onOpenChange={() => setSelectedRecipe(null)}>
+                    <DialogContent className="max-w-4xl max-h-[80vh] overflow-auto" onOpenAutoFocus={(e) => e.preventDefault()}>
+                        <DialogHeader className="p-3">
+                            <div className="flex justify-between items-start">
+                                <div className="space-y-1">
+                                    <DialogTitle>{selectedRecipe.name}</DialogTitle>
+                                    <p className="text-sm text-muted-foreground">
+                                        {selectedRecipe.servings} servings | {selectedRecipe.calories} calories
+                                    </p>
+                                </div>
+                                <div className="flex items-center gap-4">
+                                    <div className="text-right space-y-2">
+                                        <Badge variant={selectedRecipe.missingCount === 0 ? "default" : "secondary"}>
+                                            Score: {selectedRecipe.score.toFixed(3)}
+                                        </Badge>
+                                        <p className="text-sm text-muted-foreground">
+                                            {selectedRecipe.matchedCount}/{selectedRecipe.totalCount} ingredients matched
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+                        </DialogHeader>
+                        <div className="space-y-6">
+                            <div className="grid grid-cols-3 gap-4">
+                                <Card>
+                                    <CardContent className="pt-6">
+                                        <p className="text-sm text-muted-foreground">Protein</p>
+                                        <p className="text-2xl font-bold">{selectedRecipe.protein.amount}{selectedRecipe.protein.unit}</p>
+                                    </CardContent>
+                                </Card>
+                                <Card>
+                                    <CardContent className="pt-6">
+                                        <p className="text-sm text-muted-foreground">Carbs</p>
+                                        <p className="text-2xl font-bold">{selectedRecipe.carbs.amount}{selectedRecipe.carbs.unit}</p>
+                                    </CardContent>
+                                </Card>
+                                <Card>
+                                    <CardContent className="pt-6">
+                                        <p className="text-sm text-muted-foreground">Fat</p>
+                                        <p className="text-2xl font-bold">{selectedRecipe.fat.amount}{selectedRecipe.fat.unit}</p>
+                                    </CardContent>
+                                </Card>
+                            </div>
+
+                            <div>
+                                <h4 className="text-sm font-medium mb-4">Ingredients</h4>
+                                <div className="grid grid-cols-2 gap-2">
+                                    {selectedRecipe.ingredients.map((ingredient, idx) => (
+                                        <div
+                                            key={idx}
+                                            className={`p-3 rounded-lg border ${selectedRecipe.missingIngredients.includes(ingredient.name.toLowerCase())
+                                                ? 'bg-destructive/10 border-destructive/20'
+                                                : 'bg-secondary border-secondary'
+                                                }`}
+                                        >
+                                            <span className="text-sm">
+                                                {ingredient.quantity} {ingredient.unit} {ingredient.name}
+                                            </span>
+                                        </div>
+                                    ))}
+                                </div>
+                            </div>
+
+                            <div>
+                                <h4 className="text-sm font-medium mb-4">Instructions</h4>
+                                <ol className="list-decimal list-inside space-y-2">
+                                    {selectedRecipe.instructions.map((instruction, idx) => (
+                                        <li key={idx} className="text-sm">
+                                            {instruction}
+                                        </li>
+                                    ))}
+                                </ol>
+                            </div>
+                        </div>
+                    </DialogContent>
+                </Dialog>
+            )}
         </div>
     );
 };
